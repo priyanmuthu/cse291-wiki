@@ -35,3 +35,4 @@ Overall, projects will be judged in terms of quality of execution, originality a
 
 ## Class Participation
 
+To earn class participation points, you can answer other students' [questions](https://github.com/nadia-polikarpova/cse291-program-synthesis/issues) and actively participate in paper discussions in class.
