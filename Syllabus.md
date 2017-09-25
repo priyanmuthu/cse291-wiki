@@ -1,3 +1,5 @@
+*Note: Syllabus is subject to change!*
+
 | Day           | Topic | Project milestone |
 |:-------------:| ----- | :-------:|
 |Thu<br/> 9/28 |**Course Overview:** What is program synthesis? Structural vs. behavioral constraints. Interaction modes. Search strategies. | |
