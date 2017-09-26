@@ -1,3 +1,5 @@
+*Note: the list of required papers beyond next week is subject to change!*
+
 ## Required Reading
 
 #### Week 1: EUSolver
