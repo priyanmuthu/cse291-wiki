@@ -37,23 +37,23 @@ Feser, Chaudhuri, Dillig: [Synthesizing Data Structure Transformations from Inpu
 
 #### Week 2
 
-Schufza, Sharma, Aiken: Stochastic program optimization. CACM’16
+Schufza, Sharma, Aiken: [Stochastic program optimization](https://cacm.acm.org/magazines/2016/2/197428-stochastic-program-optimization/fulltext). CACM’16
 
-Bielik, Raychev, Vechev. PHOG: Probabilistic Model for Code. ICML’16
+Bielik, Raychev, Vechev. [PHOG: Probabilistic Model for Code](www.srl.inf.ethz.ch/slides/ICML16_PHOG.pdf). ICML’16
 
-Balog, Gaunt, Brockschmidt, Nowozin, Tarlow. DeepCoder: Learning to Write Programs. ICLR'17
+Balog, Gaunt, Brockschmidt, Nowozin, Tarlow. [DeepCoder: Learning to Write Programs](https://arxiv.org/pdf/1611.01989). ICLR'17
 
-Polozov, Gulwani: FlashMeta: a framework for inductive program synthesis. OOPSLA’15
+Polozov, Gulwani: [FlashMeta: a framework for inductive program synthesis](https://homes.cs.washington.edu/~polozov/papers/oopsla2015-flashmeta.pdf). OOPSLA’15
 
-Wang, Dillig, Singh: Synthesis of Data Completion Scripts using Finite Tree Automata. OOPSLA'17. 
+Wang, Dillig, Singh: [Synthesis of Data Completion Scripts using Finite Tree Automata](http://www.cs.utexas.edu/~isil/dace.pdf). OOPSLA'17. 
 
 #### Week 3
 
-Gulwani, Jha, Tiwari, Venkatesan: Synthesis of loop-free programs. PLDI’11
+Gulwani, Jha, Tiwari, Venkatesan: [Synthesis of loop-free programs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/pldi11-loopfree-synthesis.pdf). PLDI’11
 
 #### Week 4
 
-Torlak, Bodik: Growing Solver-Aided Languages with ROSETTE. Onward!’13
+Torlak, Bodik: [Growing Solver-Aided Languages with ROSETTE](https://homes.cs.washington.edu/~emina/pubs/rosette.onward13.pdf). Onward!’13
 
 #### Week 5
 
