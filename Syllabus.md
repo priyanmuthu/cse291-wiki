@@ -5,7 +5,7 @@
 |Thu<br/> 9/28 |**Course Overview:** What is program synthesis? Dimensions in programs synthesis: behavioral constraints, structural constraints, search strategies. Interaction modes. | |
 | |**Unit I: Synthesis from Examples** | |
 |Tue<br/> 10/3  |Syntax-guided synthesis. Enumerative search: bottom-up vs top-down. | | 
-|Wed<br/> 11/3  |[EUSolver](https://www.seas.upenn.edu/~arjunrad/publications/tacas2017.pdf) | | 
+|Wed<br/> 11/3  |[[EUSolver|Reading List#week-1-eusolver]] | | 
 |Thu<br/> 10/5  |Pruning for enumerative search: symmetry breaking, top-down constraint propagation, condition abduction.| |
 |Tue<br/> 10/10 |Representation-based search (VSA, lattice search, Petri Nets)| |
 |Thu<br/> 10/12 |Stochastic search (MCMC, ML for synthesis)| |
