@@ -7,13 +7,14 @@
 |Tue<br/> 10/3  |Syntax-guided synthesis. Enumerative search: bottom-up vs top-down. | | 
 |Wed<br/> 10/4  |[[EUSolver|Reading List#week-1-eusolver]] | | 
 |Thu<br/> 10/5  |Pruning and decomposition: symmetry breaking, top-down constraint propagation, condition abduction.| |
+|Fri<br/> 10/6  | | Teams |
 |Tue<br/> 10/10 |Representation-based search: Version Space Algebra, Finite Tree Automata| |
 |Wed<br/> 10/11 |[[FlashFill|Reading List#week-2-flashfill]] | | 
 |Thu<br/> 10/12 |Stochastic search: MCMC, ML for synthesis| |
 |Tue<br/> 10/17 |Constraint Solving: SAT, SMT| |
 |Wed<br/> 10/18 |[[Brahma|Reading List#week-3-brahma]] | | 
 |Thu<br/> 10/19 |Constraint-based search| |
-|Fri<br/> 10/20 | | Teams |
+|Fri<br/> 10/20  | | Proposal |
 ||**Unit II: Synthesis from Specifications**| |
 |Tue<br/> 10/24 |Specifications and guarantees. Bounded verification. Reduction to inductive synthesis: CEGIS.| |
 |Wed<br/> 10/25 |[[Sketch|Reading List#week-4-sketch]] | | 
@@ -21,7 +22,6 @@
 |Tue<br/> 10/31 |Unbounded verification. Hoare-style reasoning.| |
 |Wed<br/> 11/1  |[[Proof-theoretic synthesis|Reading List#week-5-proof-theoretic-synthesis]] | | 
 |Thu<br/> 11/2  |Proof-theoretic synthesis.| |
-|Fri<br/> 11/3  | | Proposal |
 |Tue<br/> 11/7  |Deductive synthesis. Leon. Bellmania.| |
 |Wed<br/> 11/8  |[[Leon|Reading List#week-6-leon]] | | 
 |Thu<br/> 11/9  |Type Systems.| | |
@@ -35,7 +35,7 @@
 |Thu<br/> 11/30 |Security. Machine Learning.| |
 |Tue<br/> 12/7  |*Project Presentations*.| Presentation |
 |Thu<br/> 12/9  |*Project Presentations*.| |
-|Fri<br/> 12/15 | | Report |
+|Wed<br/> 12/13 | | Report |
 
 
 
