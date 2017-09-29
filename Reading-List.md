@@ -32,7 +32,11 @@ Polikarpova, Kuraj, Solar-Lezama: [Program synthesis from Polymorphic Refinement
 
 ### Week 9: TBD
 
-## Additional Reading
+## Recommended Reading
+
+### Week 0
+
+Gulwani: [Dimensions in Program Synthesis](https://dl.acm.org/citation.cfm?id=1836091). PPDP'10
 
 ### Week 1
 
