@@ -48,21 +48,23 @@ Gulwani: [Dimensions in Program Synthesis](https://dl.acm.org/citation.cfm?id=18
 
 ### Week 1
 
-Alur, Bodík, Juniwal, Martin, Raghothaman, Seshia, Singh, Solar-Lezama, Torlak, Udupa: [Syntax-guided synthesis](sygus.seas.upenn.edu/files/sygus_extended.pdf). FMCAD'13
+Alur, Bodík, Juniwal, Martin, Raghothaman, Seshia, Singh, Solar-Lezama, Torlak, Udupa: [Syntax-guided synthesis](http://sygus.seas.upenn.edu/files/sygus_extended.pdf). FMCAD'13
 
-Feser, Chaudhuri, Dillig: [Synthesizing Data Structure Transformations from Input-Output Examples](http://www.cs.utexas.edu/~isil/pldi15b.pdf). PLDI 2015.
+Albarghouthi, Gulwani, Kincaid: [Recursive Program Synthesis](http://pages.cs.wisc.edu/~aws/papers/cav13a.pdf). CAV'13
+
+Feser, Chaudhuri, Dillig: [Synthesizing Data Structure Transformations from Input-Output Examples](http://www.cs.utexas.edu/~isil/pldi15b.pdf). PLDI 2015
 
 ### Week 2
 
 Schufza, Sharma, Aiken: [Stochastic program optimization](https://cacm.acm.org/magazines/2016/2/197428-stochastic-program-optimization/fulltext). CACM’16
 
-Bielik, Raychev, Vechev. [PHOG: Probabilistic Model for Code](www.srl.inf.ethz.ch/slides/ICML16_PHOG.pdf). ICML’16
+Bielik, Raychev, Vechev. [PHOG: Probabilistic Model for Code](http://www.srl.inf.ethz.ch/slides/ICML16_PHOG.pdf). ICML’16
 
 Balog, Gaunt, Brockschmidt, Nowozin, Tarlow. [DeepCoder: Learning to Write Programs](https://arxiv.org/pdf/1611.01989). ICLR'17
 
 Polozov, Gulwani: [FlashMeta: a framework for inductive program synthesis](https://homes.cs.washington.edu/~polozov/papers/oopsla2015-flashmeta.pdf). OOPSLA’15
 
-Wang, Dillig, Singh: [Synthesis of Data Completion Scripts using Finite Tree Automata](http://www.cs.utexas.edu/~isil/dace.pdf). OOPSLA'17. 
+Wang, Dillig, Singh: [Synthesis of Data Completion Scripts using Finite Tree Automata](http://www.cs.utexas.edu/~isil/dace.pdf). OOPSLA'17
 
 ### Week 3
 
@@ -84,7 +86,7 @@ Itzhaky, Singh, Solar-Lezama, Yessenov, Lu, Leiserson, Chowdhury: [Deriving Divi
 
 ### Week 7
 
-Osera, Zdancewic: [Type-and-example-directed program synthesis](www.cis.upenn.edu/~stevez/papers/OZ15.pdf). PLDI'15
+Osera, Zdancewic: [Type-and-example-directed program synthesis](http://www.cis.upenn.edu/~stevez/papers/OZ15.pdf). PLDI'15
 
 ### Week 8
 
