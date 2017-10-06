@@ -6,11 +6,11 @@
 | |**Unit I: Synthesis from Examples** | |
 |Tue<br/> 10/3  |Syntax-guided synthesis. Enumerative search: bottom-up vs top-down. | | 
 |Wed<br/> 10/4  |[[EUSolver|Reading List#week-1-eusolver]] | | 
-|Thu<br/> 10/5  |Pruning and decomposition: symmetry breaking, top-down constraint propagation, condition abduction.| |
+|Thu<br/> 10/5  |Search space pruning: equivalence reduction, top-down constraint propagation, condition abduction.| |
 |Fri<br/> 10/6  | | Teams |
-|Tue<br/> 10/10 |Representation-based search: Version Space Algebra, Finite Tree Automata| |
+|Tue<br/> 10/10 |Search space prioritization. Stochastic search. ML for synthesis.| |
 |Wed<br/> 10/11 |[[FlashFill|Reading List#week-2-flashfill]] | | 
-|Thu<br/> 10/12 |Stochastic search: MCMC, ML for synthesis| |
+|Thu<br/> 10/12 |Representation-based search: Version Space Algebra, Finite Tree Automata| |
 |Tue<br/> 10/17 |Constraint Solving: SAT, SMT| |
 |Wed<br/> 10/18 |[[Brahma|Reading List#week-3-brahma]] | | 
 |Thu<br/> 10/19 |Constraint-based search| |
