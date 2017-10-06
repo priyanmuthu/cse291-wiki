@@ -13,6 +13,14 @@ Alur, Radhakrishna, Udupa. [Scaling Enumerative Program Synthesis via Divide and
 ### Week 2: FlashFill
 Gulwani: [Automating string processing in spreadsheets using input-output examples](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf). POPL'11
 
+**Questions:**
+* What does FlashFill use as behavioral constraints? Structural constraints? Search strategy?
+* Write a program in the FlashFill string expression language that extracts conference years; the program should satisfy the following examples:
+    "287 papers submitted to POPL 2018" -> "2018",
+    "FM 2012 took place in Oslo" -> "2012"
+* Section 3.1 explains why FlashFill restricts its regular expression language. Which lines of the algorithm in Fig. 7 in particular would not be feasible without this restriction?
+* Discuss how FlashFill's condition abduction mechanism is different from the one used by EUSolver.
+
 ### Week 3: Brahma
 Jha, Gulwani, Seshia, Tiwari: [Oracle-guided component-based program synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/icse10_synthesis.pdf). ICSE’10
 
