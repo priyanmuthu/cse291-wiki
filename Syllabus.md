@@ -33,8 +33,8 @@
 |Thu<br/> 11/23 |*Thanksgiving*| |
 |Tue<br/> 11/28 |Databases. Graphics.| |
 |Thu<br/> 11/30 |Security. Machine Learning.| |
-|Tue<br/> 12/7  |*Project Presentations*.| Presentation |
-|Thu<br/> 12/9  |*Project Presentations*.| |
+|Tue<br/> 12/5  |*Project Presentations*.| Presentation |
+|Thu<br/> 12/7  |*Project Presentations*.| |
 |Wed<br/> 12/13 | | Report |
 
 
