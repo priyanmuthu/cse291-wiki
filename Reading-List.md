@@ -24,6 +24,11 @@ Gulwani: [Automating string processing in spreadsheets using input-output exampl
 ### Week 3: Brahma
 Jha, Gulwani, Seshia, Tiwari: [Oracle-guided component-based program synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/icse10_synthesis.pdf). ICSE’10
 
+* What does Brahma use as behavioral constraints / user interaction mode? Structural constraints? Search strategy?
+* Is it possible to specify Brahma's structural constraints in the SyGuS format (as a grammar)? Is yes, show a small example. If no, explain why.
+* Consider the following modification of Brahma's synthesis problem: you are given `N` components, but your program is only allowed to use any `K` of them (`K <= N`). How would you modify the SMT encoding in section 4.1 to enforce this restriction?
+
+
 ### Week 4: Sketch
 Solar-Lezama: [Program sketching](https://link.springer.com/content/pdf/10.1007%2Fs10009-012-0249-7.pdf). STTT’13
 
