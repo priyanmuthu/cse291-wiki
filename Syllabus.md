@@ -30,11 +30,12 @@
 |Thu<br/> 11/16 |Deduction to speed up synthesis.| |
 ||**Unit III: Applications of synthesis**| | |
 |Tue<br/> 11/21 |Code Completion. Superoptimization. Data wrangling.| |
-|Thu<br/> 11/23 |*Thanksgiving*| |
+|Thu<br/> 11/23 |*No class (Thanksgiving)*| |
 |Tue<br/> 11/28 |Databases. Graphics.| |
 |Thu<br/> 11/30 |Security. Machine Learning.| |
 |Tue<br/> 12/5  |*Project Presentations*.| Presentation |
-|Thu<br/> 12/7  |*Project Presentations*.| |
+|Thu<br/> 12/7  |*No class (Nadia out of town)*.| |
+|Mon<br/> 12/11<br/> 3-6pm |*Project Presentations*.| |
 |Wed<br/> 12/13 | | Report |
 
 
