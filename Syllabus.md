@@ -2,15 +2,15 @@
 
 | Day           | Class Topic / Reading Assignment | Project milestone |
 |:-------------:| ----- | :-------:|
-|Thu<br/> 9/28 |**Course Overview:** What is program synthesis? Dimensions in programs synthesis: behavioral constraints, structural constraints, search strategies. Interaction modes.<br/>[\[Slides\]](../blob/master/lectures/Lecture1.pdf) [\[Sketch online\]](http://sketch1.csail.mit.edu/demo/pages/sketchexp) [\[Sketch demo\]](http://people.csail.mit.edu/asolar/gal/isolateRightmost.sk.html) [\[Synquid demo\]](http://comcom.csail.mit.edu/demos/#intersection)| |
+|Thu<br/> 9/28 |**Course Overview:** What is program synthesis? Dimensions in programs synthesis: behavioral constraints, structural constraints, search strategies. Interaction modes.<br/>[\[Slides\]](../../blob/master/lectures/Lecture01.pdf) [\[Sketch online\]](http://sketch1.csail.mit.edu/demo/pages/sketchexp) [\[Sketch demo\]](http://people.csail.mit.edu/asolar/gal/isolateRightmost.sk.html) [\[Synquid demo\]](http://comcom.csail.mit.edu/demos/#intersection)| |
 | |**Unit I: Synthesis from Examples** | |
-|Tue<br/> 10/3  |Syntax-guided synthesis. Enumerative search: bottom-up vs top-down. | | 
+|Tue<br/> 10/3  |Syntax-guided synthesis. Enumerative search: bottom-up vs top-down.<br/>[\[Slides\]](../../blob/master/lectures/Lecture02.pdf) | | 
 |Wed<br/> 10/4  | [EUSolver](../Reading-List#week-1-eusolver) | | 
-|Thu<br/> 10/5  |Search space pruning: equivalence reduction, top-down constraint propagation, condition abduction.| |
+|Thu<br/> 10/5  |Search space pruning: equivalence reduction, top-down constraint propagation, condition abduction.<br/>[\[Slides\]](../../blob/master/lectures/Lecture03.pdf)| |
 |Fri<br/> 10/6  | | Teams |
-|Tue<br/> 10/10 |Search space prioritization. Probabilistic models: PCFG, PHOG, Neural Nets for synthesis. Stochastic search, MCMC.| |
+|Tue<br/> 10/10 |Search space prioritization. Probabilistic models: PCFG, PHOG, Neural Nets for synthesis. Stochastic search, MCMC<br/>[\[Slides\]](../../blob/master/lectures/Lecture04.pdf)| |
 |Wed<br/> 10/11 | [FlashFill](../Reading-List#week-2-flashfill) | | 
-|Thu<br/> 10/12 |Representation-based search: Version Space Algebra, Finite Tree Automata| |
+|Thu<br/> 10/12 |Representation-based search: Version Space Algebra, Finite Tree Automata<br/>[\[Slides\]](../../blob/master/lectures/Lecture05.pdf)| |
 |Tue<br/> 10/17 |Constraint Solving: SAT, SMT| |
 |Wed<br/> 10/18 |[Brahma](../Reading-List#week-3-brahma) | | 
 |Thu<br/> 10/19 |Constraint-based search| |
