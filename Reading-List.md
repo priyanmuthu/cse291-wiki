@@ -73,6 +73,8 @@ Wang, Dillig, Singh: [Synthesis of Data Completion Scripts using Finite Tree Aut
 
 ### Week 3
 
+Nieuwenhuis, Oliveras, Tinelli: [Solving SAT and SAT Modulo Theories: From an abstract Davis--Putnam--Logemann--Loveland procedure to DPLL(T)](https://dl.acm.org/citation.cfm?id=1217859). JACM'06
+
 Gulwani, Jha, Tiwari, Venkatesan: [Synthesis of loop-free programs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/pldi11-loopfree-synthesis.pdf). PLDI’11
 
 ### Week 4
