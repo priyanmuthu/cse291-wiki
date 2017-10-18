@@ -11,7 +11,7 @@
 |Tue<br/> 10/10 |Search space prioritization. Probabilistic models: PCFG, PHOG, Neural Nets for synthesis. Stochastic search, MCMC<br/>[\[Slides\]](../blob/master/lectures/Lecture04.pdf)| |
 |Wed<br/> 10/11 | [FlashFill](Reading-List#week-2-flashfill) | | 
 |Thu<br/> 10/12 |Representation-based search: Version Space Algebra, Finite Tree Automata<br/>[\[Slides\]](../blob/master/lectures/Lecture05.pdf)| |
-|Tue<br/> 10/17 |Constraint Solving: SAT, SMT| |
+|Tue<br/> 10/17 |Constraint Solving: SAT, SMT<br/>[\[Slides\]](../blob/master/lectures/Lecture06.pdf)| |
 |Wed<br/> 10/18 |[Brahma](Reading-List#week-3-brahma) | | 
 |Thu<br/> 10/19 |Constraint-based search| |
 |Fri<br/> 10/20  | | Proposal |
