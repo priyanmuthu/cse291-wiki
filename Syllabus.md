@@ -13,7 +13,7 @@
 |Thu<br/> 10/12 |Representation-based search: Version Space Algebra, Finite Tree Automata<br/>[\[Slides\]](../blob/master/lectures/Lecture05.pdf)| |
 |Tue<br/> 10/17 |Constraint Solving: SAT, SMT<br/>[\[Slides\]](../blob/master/lectures/Lecture06.pdf)| |
 |Wed<br/> 10/18 |[Brahma](Reading-List#week-3-brahma) | | 
-|Thu<br/> 10/19 |Constraint-based search| |
+|Thu<br/> 10/19 |Constraint-based search<br/>[\[Slides\]](../blob/master/lectures/Lecture07.pdf)| |
 |Fri<br/> 10/20  | | Proposal |
 ||**Unit II: Synthesis from Specifications**| |
 |Tue<br/> 10/24 |Specifications and guarantees. Bounded verification. Reduction to inductive synthesis: CEGIS.| |
