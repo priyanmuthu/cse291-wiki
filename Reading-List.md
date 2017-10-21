@@ -32,6 +32,8 @@ Jha, Gulwani, Seshia, Tiwari: [Oracle-guided component-based program synthesis](
 ### Week 4: Sketch
 Solar-Lezama: [Program sketching](https://link.springer.com/content/pdf/10.1007%2Fs10009-012-0249-7.pdf). STTT’13
 
+Questions coming soon.
+
 ### Week 5: Proof-theoretic synthesis
 Srivastava, Gulwani, Foster: [From program verification to program synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl10_synthesis.pdf). POPL'10
 
