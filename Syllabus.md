@@ -20,7 +20,7 @@
 |Wed<br/> 10/25 |[Sketch](Reading-List#week-4-sketch) | | 
 |Thu<br/> 10/26 |Synthesis-aided languages: Sketch, Rosette.| |
 |Tue<br/> 10/31 |Unbounded verification. Hoare-style reasoning.| |
-|Wed<br/> 11/1  |[Proof-theoretic synthesis](Reading-List#week-5-proof-theoretic-synthesis) | | 
+|Wed<br/> 11/1  |[VS3](Reading-List#week-5-vs3) | | 
 |Thu<br/> 11/2  |Proof-theoretic synthesis.| |
 |Tue<br/> 11/7  |Deductive synthesis. Leon. Bellmania.| |
 |Wed<br/> 11/8  |[Leon](Reading-List#week-6-leon) | | 
