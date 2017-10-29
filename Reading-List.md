@@ -40,6 +40,11 @@ Solar-Lezama: [Program sketching](https://link.springer.com/content/pdf/10.1007%
 ### Week 5: VS3
 Srivastava, Gulwani, Foster: [From program verification to program synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl10_synthesis.pdf). POPL'10
 
+**Questions:**
+* What does VS3 use as behavioral constraints? Structural constraint? Search strategy?
+* Consider the synthesis condition for the Bresenhams line drawing algorithm shown in Fig 1. If we removed the well-formedness constraint from the synthesis condition, what would be a trivial solution (not corresponding to any real program) that would satisfy this modified constraint?
+* Give a loop invariant and a ranking function (termination metric) that are sufficient to prove that the [following program](https://rise4fun.com/Dafny/HmX3) terminates and satisfies its postcondition. The program is written in Dafny syntax; you can use Dafny to verify your solution by pressing the "play" button.
+
 ### Week 6: Leon
 Kneuss, Kuraj, Kuncak, Suter: [Synthesis modulo recursive functions](http://lara.epfl.ch/~kuncak/papers/KneussETAL13SynthesisModuloRecursiveFunctions.pdf). OOPSLA’13
 
