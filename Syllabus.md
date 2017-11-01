@@ -16,10 +16,10 @@
 |Thu<br/> 10/19 |Constraint-based search<br/>[\[Slides\]](../blob/master/lectures/Lecture07.pdf)| |
 |Fri<br/> 10/20  | | Proposal |
 ||**Unit II: Synthesis from Specifications**| |
-|Tue<br/> 10/24 |Specifications and guarantees. Bounded verification. Reduction to inductive synthesis: CEGIS.| |
+|Tue<br/> 10/24 |Specifications and guarantees. Bounded verification. Reduction to inductive synthesis: CEGIS.<br/>[\[Slides\]](../blob/master/lectures/Lecture08.pdf)| |
 |Wed<br/> 10/25 |[Sketch](Reading-List#week-4-sketch) | | 
-|Thu<br/> 10/26 |Synthesis-aided languages: Sketch, Rosette.| |
-|Tue<br/> 10/31 |Unbounded verification. Hoare-style reasoning.| |
+|Thu<br/> 10/26 |Synthesis-aided languages: Sketch, Rosette.<br/>[\[Slides\]](../blob/master/lectures/Lecture09.pdf)| |
+|Tue<br/> 10/31 |Unbounded verification. Hoare-style reasoning.<br/>[\[Slides\]](../blob/master/lectures/Lecture10.pdf)| |
 |Wed<br/> 11/1  |[VS3](Reading-List#week-5-vs3) | | 
 |Thu<br/> 11/2  |Proof-theoretic synthesis.| |
 |Tue<br/> 11/7  |Deductive synthesis. Leon. Bellmania.| |
