@@ -19,9 +19,9 @@
 |Tue<br/> 10/24 |Specifications and guarantees. Bounded verification. Reduction to inductive synthesis: CEGIS.<br/>[\[Slides\]](../blob/master/lectures/Lecture08.pdf)| |
 |Wed<br/> 10/25 |[Sketch](Reading-List#week-4-sketch) | | 
 |Thu<br/> 10/26 |Synthesis-aided languages: Sketch, Rosette.<br/>[\[Slides\]](../blob/master/lectures/Lecture09.pdf)| |
-|Tue<br/> 10/31 |Unbounded verification. Hoare-style reasoning.<br/>[\[Slides\]](../blob/master/lectures/Lecture10.pdf)| |
+|Tue<br/> 10/31 |Unbounded verification. Hoare logic.<br/>[\[Slides\]](../blob/master/lectures/Lecture10.pdf)| |
 |Wed<br/> 11/1  |[VS3](Reading-List#week-5-vs3) | | 
-|Thu<br/> 11/2  |Proof-theoretic synthesis.| |
+|Thu<br/> 11/2  |From verification through invariant inference to synthesis.<br/>[\[Slides\]](../blob/master/lectures/Lecture11.pdf)| |
 |Tue<br/> 11/7  |Deductive synthesis. Leon. Bellmania.| |
 |Wed<br/> 11/8  |[Leon](Reading-List#week-6-leon) | | 
 |Thu<br/> 11/9  |Type Systems.| | |
