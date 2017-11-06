@@ -18,16 +18,16 @@
 ||**Unit II: Synthesis from Specifications**| |
 |Tue<br/> 10/24 |Specifications and guarantees. Bounded verification. Reduction to inductive synthesis: CEGIS.<br/>[\[Slides\]](../blob/master/lectures/Lecture08.pdf)| |
 |Wed<br/> 10/25 |[Sketch](Reading-List#week-4-sketch) | | 
-|Thu<br/> 10/26 |Synthesis-aided languages: Sketch, Rosette.<br/>[\[Slides\]](../blob/master/lectures/Lecture09.pdf)| |
+|Thu<br/> 10/26 |Bounded constraint-based synthesis. Sketch, Rosette.<br/>[\[Slides\]](../blob/master/lectures/Lecture09.pdf)| |
 |Tue<br/> 10/31 |Unbounded verification. Hoare logic.<br/>[\[Slides\]](../blob/master/lectures/Lecture10.pdf)| |
 |Wed<br/> 11/1  |[VS3](Reading-List#week-5-vs3) | | 
-|Thu<br/> 11/2  |From verification through invariant inference to synthesis.<br/>[\[Slides\]](../blob/master/lectures/Lecture11.pdf)| |
-|Tue<br/> 11/7  |Deductive synthesis. Leon. Bellmania.| |
+|Thu<br/> 11/2  |Unbounded constraint-based synthesis: from verification through invariant inference to synthesis.<br/>[\[Slides\]](../blob/master/lectures/Lecture11.pdf)| |
+|Tue<br/> 11/7  |Unbounded constraint-based synthesis (contd.) Enumerative synthesis with deductive reasoning.| |
 |Wed<br/> 11/8  |[Leon](Reading-List#week-6-leon) | | 
-|Thu<br/> 11/9  |Type Systems.| | |
-|Tue<br/> 11/14 |Type-driven synthesis. Myth. Syqnuid.| |
+|Thu<br/> 11/9  |Deductive synthesis. Leon.| | |
+|Tue<br/> 11/14 |Type Systems.| |
 |Wed<br/> 11/15 |[Synquid](Reading-List#week-7-synquid) | | 
-|Thu<br/> 11/16 |Deduction to speed up synthesis.| |
+|Thu<br/> 11/16 |Type-driven synthesis. Myth. Syqnuid.| |
 ||**Unit III: Applications of synthesis**| | |
 |Tue<br/> 11/21 |Code Completion. Superoptimization. Data wrangling.| |
 |Thu<br/> 11/23 |*No class (Thanksgiving)*| |
