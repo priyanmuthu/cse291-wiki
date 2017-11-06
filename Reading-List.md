@@ -48,6 +48,12 @@ Srivastava, Gulwani, Foster: [From program verification to program synthesis](ht
 ### Week 6: Leon
 Kneuss, Kuraj, Kuncak, Suter: [Synthesis modulo recursive functions](http://lara.epfl.ch/~kuncak/papers/KneussETAL13SynthesisModuloRecursiveFunctions.pdf). OOPSLA’13
 
+**Questions:**
+* What does Leon use as behavioral constraints? Structural constraint? Search strategy?
+* Compare Leon's Symbolic Term Exploration (STE) rule to Sketch. How would you extend STE to generating arbitrary integer constants?
+* Compare Leon's Condition Abduction rule to the way conditionals are synthesized in EUSolver and FlashFill.
+
+
 ### Week 7: Synquid
 Polikarpova, Kuraj, Solar-Lezama: [Program synthesis from Polymorphic Refinement Types](https://cseweb.ucsd.edu/~npolikarpova/publications/pldi16.pdf). PLDI’16
 
