@@ -57,6 +57,16 @@ Kneuss, Kuraj, Kuncak, Suter: [Synthesis modulo recursive functions](http://lara
 ### Week 7: Synquid
 Polikarpova, Kuraj, Solar-Lezama: [Program synthesis from Polymorphic Refinement Types](https://cseweb.ucsd.edu/~npolikarpova/publications/pldi16.pdf). PLDI’16
 
+**Questions:**
+* What does Synquid use as behavioral constraints? Structural constraint? Search strategy?
+* Find a typo in the Example is Section 3.2 (recently discovered by Tristan!)
+* Can Synquid's Round-Trip Type Checking discard the following incomplete terms? Explain how or why not.  
+  1. `inc ?? :: {Int | ν = 5}`, where `inc :: x:Int -> {Int | ν = x + 1}`
+  1. `duplicate ?? :: {List Int | len ν = 5}`, where `duplicate :: xs:List a -> {List a | len ν = 2*(len xs)}`
+  1. `nats ?? :: List Pos`, where `nats :: n:Nat -> {List Nat| len ν = n}`, `Nat = {Int | ν >= 0}`, `Pos = {Int | ν > 0}` 
+* Compare Synquid's condition abduction mechanism to the one in Leon.
+
+
 ### Week 8: TBD
 
 ### Week 9: TBD
