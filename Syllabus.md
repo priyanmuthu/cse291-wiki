@@ -24,8 +24,8 @@
 |Thu<br/> 11/2  |Unbounded constraint-based synthesis: from verification through invariant inference to synthesis.<br/>[\[Slides\]](../blob/master/lectures/Lecture11.pdf)| |
 |Tue<br/> 11/7  |Unbounded constraint-based synthesis (contd.) Deductive synthesis.<br/>[\[Slides\]](../blob/master/lectures/Lecture12.pdf)| |
 |Wed<br/> 11/8  |[Leon](Reading-List#week-6-leon) | | 
-|Thu<br/> 11/9  |Deductive synthesis (contd.). Leon. Enumerative synthesis with deductive reasoning.| | |
-|Tue<br/> 11/14 |Type Systems.| |
+|Thu<br/> 11/9  |Deductive synthesis (contd.). Leon.<br/>[\[Slides\]](../blob/master/lectures/Lecture13.pdf)| | |
+|Tue<br/> 11/14 |Enumerative synthesis with deductive reasoning. Type Systems.| |
 |Wed<br/> 11/15 |[Synquid](Reading-List#week-7-synquid) | | 
 |Thu<br/> 11/16 |Type-driven synthesis. Myth. Syqnuid.| |
 ||**Unit III: Applications of synthesis**| | |
