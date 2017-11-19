@@ -29,10 +29,10 @@
 |Wed<br/> 11/15 |[Synquid](Reading-List#week-7-synquid) | | 
 |Thu<br/> 11/16 |Type-driven synthesis. Syqnuid.<br/>[\[Slides\]](../blob/master/lectures/Lecture15.pdf)| |
 ||**Unit III: Applications of synthesis**| | |
-|Tue<br/> 11/21 |Superoptimization. Data wrangling.| |
+|Tue<br/> 11/21 |*Pre-Thanksgiving Class:* Working on projects together.| |
 |Thu<br/> 11/23 |*No class (Thanksgiving)*| |
-|Tue<br/> 11/28 |Databases. Graphics.| |
-|Thu<br/> 11/30 |Security. Machine Learning.| |
+|Tue<br/> 11/28 |Superoptimization. Data wrangling. Graphics.| |
+|Thu<br/> 11/30 |Databases. Security. Machine Learning.| |
 |Tue<br/> 12/5  |*Project Presentations*.| Presentation |
 |Thu<br/> 12/7  |*No class (Nadia out of town)*.| |
 |Mon<br/> 12/11<br/> 3-6pm |*Project Presentations*.| |
