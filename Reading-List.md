@@ -67,13 +67,14 @@ Polikarpova, Kuraj, Solar-Lezama: [Program synthesis from Polymorphic Refinement
 * Compare Synquid's condition abduction mechanism to the one in Leon.
 
 
-### Week 8: Superoptimization / Data Wrangling
+### Week 8: Superoptimization / Data Wrangling / Graphics
 
-Read one of the following two papers, depending on the application area of interest:
+Read one of the following three papers, depending on the application area of interest:
 * Phothilimthana, Thakur, Bodik, Dhurjati: [Scaling Up Superoptimization](https://people.eecs.berkeley.edu/~mangpo/www/papers/lens-asplos16.pdf). ASPLOS’16
 * Feng, Martins, Van Geffen, Dillig, Chaudhuri: [Component-based synthesis of table consolidation and transformation tasks from examples](https://www.cs.rice.edu/~sc40/pubs/pldi17-morpheus.pdf). PLDI'17
+* Kamil, Cheung, Itzhaky, Solar-Lezama [Verified Lifting of Stencil Computations](https://people.csail.mit.edu/asolar/papers/KamilCIS16.pdf). PLDI'16
 
-### Week 9: Databases / Graphics / Security / Machine Learning
+### Week 9: Databases / Security / Machine Learning
 
 ## Recommended Reading
 
