@@ -35,7 +35,7 @@
 |Thu<br/> 11/30 |Databases. Security. Machine Learning.| |
 |Tue<br/> 12/5  |*Project Presentations*.| Presentation |
 |Thu<br/> 12/7  |*No class (Nadia out of town)*.| |
-|Mon<br/> 12/11<br/> 3-6pm |*Project Presentations*.| |
+|Mon<br/> 12/11 |*Project Presentations*: 3-6pm in CSE 2154 (regular room)| |
 |Wed<br/> 12/13 | | Report |
 
 
