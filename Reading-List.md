@@ -76,6 +76,13 @@ Read one of the following three papers, depending on the application area of int
 
 ### Week 9: Databases / Security / Machine Learning
 
+Read one of the following three papers, depending on the application area of interest:
+
+* Yaghmazadeh, Wang, Dillig, Dillig: [SQLizer: Query Synthesis from Natural Language](https://www.cs.utexas.edu/~isil/sqlizer.pdf). OOPSLA'17
+* Gascón, Tiwari, Carmer, Mathur: [Look for the Proof to Find the Program: Decorated-Component-Based Program Synthesis](umathur3.web.engr.illinois.edu/papers/synudic-cav2017.pdf), CAV'17
+* Ellis, Solar-Lezama, Tenenbaum: [Unsupervised Learning by Program Synthesis](https://papers.nips.cc/paper/5785-unsupervised-learning-by-program-synthesis.pdf), NIPS'15
+
+
 ## Recommended Reading
 
 ### Week 0
