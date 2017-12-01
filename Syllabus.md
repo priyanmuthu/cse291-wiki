@@ -31,9 +31,9 @@
 ||**Unit III: Applications of synthesis**| | |
 |Tue<br/> 11/21 |*Pre-Thanksgiving Class:* Working on projects together.| |
 |Thu<br/> 11/23 |*No class (Thanksgiving)*| |
-|Tue<br/> 11/28 |Superoptimization. Data wrangling. Graphics.| |
-|Thu<br/> 11/30 |Databases. Security. Machine Learning.| |
-|Tue<br/> 12/5  |*Project Presentations*.| Presentation |
+|Tue<br/> 11/28 |Superoptimization. Data wrangling. Graphics.<br/>[\[Slides\]](../blob/master/lectures/Lecture16.pdf)| |
+|Thu<br/> 11/30 |Databases. Machine Learning. <br/>[\[Slides\]](../blob/master/lectures/Lecture17.pdf)| |
+|Tue<br/> 12/5  |Security. *Project Presentations*.| Presentation |
 |Thu<br/> 12/7  |*No class (Nadia out of town)*.| |
 |Mon<br/> 12/11 |*Project Presentations*: 3-6pm in CSE 2154 (regular room)| |
 |Wed<br/> 12/13 | | Report |
