@@ -132,11 +132,3 @@ Itzhaky, Singh, Solar-Lezama, Yessenov, Lu, Leiserson, Chowdhury: [Deriving Divi
 ### Week 7
 
 Osera, Zdancewic: [Type-and-example-directed program synthesis](http://www.cis.upenn.edu/~stevez/papers/OZ15.pdf). PLDI'15
-
-### Week 8
-
-TBD
-
-### Week 9
-
-TBD
