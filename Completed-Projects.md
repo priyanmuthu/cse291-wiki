@@ -1,4 +1,6 @@
-The following course projects have been completed as a result of this class.
+## 2017
+
+The following course projects have been completed as a result of this class in Fall 2017
 
 ### Synthesis for Liquid Types
 *Ethan Chan, Alexander Lin*
