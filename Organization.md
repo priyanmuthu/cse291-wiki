@@ -13,11 +13,15 @@ This course consists of lectures, reading and reviewing research papers, and a f
 
 ## Paper Reviews
 
-Most work in this class consists of reading research papers. We will cover one paper per week. For each paper, you are required to write a review. Links to papers will be posted in the [[Syllabus]] at least one week before the review due date.
+Most work in this class consists of reading research papers. We will cover one paper per week. For each paper, you are required to write a review.
 
+#### Content
 A review should start with a short, neutral summary of the paper (1-2 paragraphs), followed by a list of paper's main contributions/insights, and a list of its limitations. Finally, answer specific questions posted for this paper on the syllabus page (if any). Our goal is to get you to think deeply and critically about the paper, not to test you. You won’t be graded on the correctness of your reviews; any non-trivial review will get you 5%.
 
-The reviews are due every **Wednesday** by the end of the day. The reviews must be submitted through the EasyChair conference management system (you will receive a Program Committee invitation from the system once you sign up for the course).
+#### Logistics
+The reviews are due every **Wednesday** by the end of the day. Links to papers will be posted in the [[Syllabus]] at least one week before the review due date.
+
+The reviews must be submitted through the EasyChair conference management system. You will receive a Program Committee invitation from the system once you sign up for the course. To be able to submit reviews through EasyChair, you have to associate your EasyChair account with the email address used for the Program Committee invitation (@ucsd.edu instead of @eng.ucsd.edu). You will then be able to login as "PC member" instead of "Author" and see your review assignment under "Review -> My Papers". 
 
 ## Final Project
 
