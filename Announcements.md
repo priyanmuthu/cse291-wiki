@@ -1,5 +1,7 @@
 ## 2018
 
+**Sep 13:** Nadia is traveling during Week 0. The intro lecture will be a guest lecture by [John Sarracino](http://goto.ucsd.edu/~john/).
+
 ## 2017
 
 **Oct 1:** To be able to submit reviews through EasyChair, you have to associate your EasyChair account with the email address used for the Program Committee invitation (@ucsd.edu instead of @eng.ucsd.edu). You will then be able to login as "PC member" instead of "Author" and see your review assignment under "Review -> My Papers". 
