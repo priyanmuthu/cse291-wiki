@@ -101,13 +101,18 @@ Feser, Chaudhuri, Dillig: [Synthesizing Data Structure Transformations from Inpu
 
 Schufza, Sharma, Aiken: [Stochastic program optimization](https://cacm.acm.org/magazines/2016/2/197428-stochastic-program-optimization/fulltext). CACM’16
 
-Bielik, Raychev, Vechev. [PHOG: Probabilistic Model for Code](http://www.srl.inf.ethz.ch/slides/ICML16_PHOG.pdf). ICML’16
+Lee, Kihong, Alur, Naik: [Accelerating search-based program synthesis using learned probabilistic models](www.cis.upenn.edu/~mhnaik/papers/pldi18b.pdf). PLDI'18
 
-Balog, Gaunt, Brockschmidt, Nowozin, Tarlow. [DeepCoder: Learning to Write Programs](https://arxiv.org/pdf/1611.01989). ICLR'17
+<!-- Bielik, Raychev, Vechev. [PHOG: Probabilistic Model for Code](http://www.srl.inf.ethz.ch/slides/ICML16_PHOG.pdf). ICML’16 -->
+
+Balog, Gaunt, Brockschmidt, Nowozin, Tarlow: [DeepCoder: Learning to Write Programs](https://arxiv.org/pdf/1611.01989). ICLR'17
 
 Polozov, Gulwani: [FlashMeta: a framework for inductive program synthesis](https://homes.cs.washington.edu/~polozov/papers/oopsla2015-flashmeta.pdf). OOPSLA’15
 
-Wang, Dillig, Singh: [Synthesis of Data Completion Scripts using Finite Tree Automata](http://www.cs.utexas.edu/~isil/dace.pdf). OOPSLA'17
+Feng, Martins, Wang, Dillig, Reps: [Component-based synthesis for complex APIs](https://www.cs.utexas.edu/~isil/sypet-popl17.pdf). POPL'17
+
+<!-- Wang, Dillig, Singh: [Synthesis of Data Completion Scripts using Finite Tree Automata](http://www.cs.utexas.edu/~isil/dace.pdf). OOPSLA'17 -->
+Wang, Dillig, Singh: [Program synthesis using abstraction refinement](https://dl.acm.org/citation.cfm?doid=3158151). POPL'18
 
 ### Week 3
 
