@@ -21,7 +21,7 @@ The reviews are due every **Wednesday** by the end of the day. The reviews must 
 
 ## Final Project
 
-The goal of the project is do original research in the area of program synthesis, most likely, extending the techniques presented in the course or applying them to a new domain. A list of potential project topics is available [[here|Project Ideas]], but students are also encouraged to come up with their own ideas. If you are already working on a research project that fits the theme of this course, feel free to use this as your final project (but please let us know). If you are also taking [Building Secure Systems using Programming Languages and Analysis](https://cseweb.ucsd.edu/~dstefan/cse291-fall16/) or [Automated Reasoning in AI](https://scungao.github.io/ucsd-fall17/index.html), feel free to propose a single cross-project for both (or all three) courses.
+The goal of the project is to gain an in-depth understanding of the techniques presented in the course by re-implementing them, applying them to a new domain, or extending them. A list of possible project topics is available [[here|Project Ideas]]. You can also suggest your own project, pending instructor approval. If you are already working on a research project that fits the theme of this course, feel free to use this as your final project (but please let us know). If you are taking another 291, feel free to propose a single cross-project for both courses.
 
 Projects are expected to be done either **individually or in groups of two**. The scope of the project should be commensurate with the size of the team and whether this is a cross-project for multiple courses. 
 
@@ -29,7 +29,7 @@ There will be four **milestones** throughout the quarter:
 * By the first milestone, inform us who is your teammate or if you plan to work individually
 * The second milestone is a *project proposal* where you explain what you plan to do and why you think it’s a good idea. You should elaborate on the following: what are you proposing to do, why is it interesting or important, what  are the expected challenges, how does it relate to the state of the art, what evidence do you have so far to suggest this may work. It is expected that for this milestone you will have already done some work towards the project, so we encourage you to come talk to us about your project ideas a couple of weeks before the second milestone.
 * The third milestone is a short *presentation* describing your project; the exact length of the presentations will depend on the number of projects that are submitted. 
-* At the end of the quarter, you are expected to submit a *final report* describing your project. The report should be 3-5 pages in length in PLDI'18 format (follow formatting requirements from this [call for papers](https://pldi18.sigplan.org/track/pldi-2018-papers#Call-for-Papers)). The report should read like a short paper, so it should make it clear what you did, why you did it, and what you learned from doing it.
+* At the end of the quarter, you are expected to submit a *final report* describing your project. The report should be 3-5 pages in length in the PACM PL format (follow formatting requirements from this [call for papers](https://popl19.sigplan.org/track/POPL-2019-Research-Papers#POPL-2019-Call-for-Papers)). The report should read like a short paper, so it should make it clear what you did, why you did it, and what you learned from doing it.
 
 Overall, projects will be judged in terms of quality of execution, originality and scope.    
 
