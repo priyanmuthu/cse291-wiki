@@ -3,7 +3,7 @@
 ## Required Reading
 
 ### Week 1: EUSolver
-Alur, Radhakrishna, Udupa. [Scaling Enumerative Program Synthesis via Divide and Conquer](https://www.seas.upenn.edu/%7Earjunrad/publications/tacas2017.pdf). TACAS'17
+Alur, Radhakrishna, Udupa. [Scaling Enumerative Program Synthesis via Divide and Conquer](https://arjunradhakrishna.github.io/publications/tacas2017.pdf). TACAS'17
 
 **Questions:**
 * What does EUSolver use as behavioral constraints? Structural constraint? Search strategy?
