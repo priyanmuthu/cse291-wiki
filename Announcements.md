@@ -1,4 +1,6 @@
-**Sep 13:** Nadia is traveling during Week 0. The intro lecture will be a guest lecture by [John Sarracino](http://goto.ucsd.edu/~john/).
+## 2018
+
+**Sep 21:** Nadia is traveling during Week 0, so there is **no lecture** on Sep 27. The first lecture will be on October 2.
 
 <!--
 ## 2017
