@@ -2,7 +2,7 @@
 
 | Day           | Class Topic / Reading Assignment | Project milestone |
 |:-------------:| ----- | :-------:|
-|Tue<br/> 10/2 |**Course Overview:** What is program synthesis? Dimensions in programs synthesis: behavioral constraints, structural constraints, search strategies. Interaction modes.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture01.pdf) [\[Sketch online\]](http://sketch1.csail.mit.edu/demo/pages/sketchexp) [\[Sketch demo\]](http://people.csail.mit.edu/asolar/gal/isolateRightmost.sk.html) [\[Synquid demo\]](http://comcom.csail.mit.edu/demos/#intersection)-->| |
+|Tue<br/> 10/2 |**Course Overview:** What is program synthesis? Dimensions in programs synthesis: behavioral constraints, structural constraints, search strategies. Interaction modes.<br/>[\[Slides\]](../blob/master/lectures/Lecture01.pdf) [\[Sketch online\]](http://sketch1.csail.mit.edu/demo/pages/sketchexp) [\[Sketch demo\]](http://people.csail.mit.edu/asolar/gal/isolateRightmost.sk.html) [\[Synquid demo\]](http://comcom.csail.mit.edu/demos/#intersection)| |
 | |**Module I: Synthesis from Examples** | |
 |Thu<br/> 10/4  |Syntax-guided synthesis. Enumerative search: bottom-up vs top-down.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture02.pdf)--> | | 
 |Tue<br/> 10/9 |Search space pruning: equivalence reduction, top-down constraint propagation, condition abduction.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture03.pdf)-->| |
