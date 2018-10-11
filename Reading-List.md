@@ -89,23 +89,25 @@ Read one of the following three papers, depending on the application area of int
 
 Gulwani: [Dimensions in Program Synthesis](https://dl.acm.org/citation.cfm?id=1836091). PPDP'10
 
-### Week 2
-
 Alur, Bodík, Juniwal, Martin, Raghothaman, Seshia, Singh, Solar-Lezama, Torlak, Udupa: [Syntax-guided synthesis](http://sygus.seas.upenn.edu/files/sygus_extended.pdf). FMCAD'13
+
+### Week 2
 
 Albarghouthi, Gulwani, Kincaid: [Recursive Program Synthesis](http://pages.cs.wisc.edu/~aws/papers/cav13a.pdf). CAV'13
 
 Feser, Chaudhuri, Dillig: [Synthesizing Data Structure Transformations from Input-Output Examples](http://www.cs.utexas.edu/~isil/pldi15b.pdf). PLDI 2015
 
-### Week 3
+Lee, Kihong, Alur, Naik: [Accelerating search-based program synthesis using learned probabilistic models](www.cis.upenn.edu/~mhnaik/papers/pldi18b.pdf). PLDI'18
+
+Bielik, Raychev, Vechev. [PHOG: Probabilistic Model for Code](http://www.srl.inf.ethz.ch/slides/ICML16_PHOG.pdf). ICML’16
+
+Balog, Gaunt, Brockschmidt, Nowozin, Tarlow: [DeepCoder: Learning to Write Programs](https://arxiv.org/pdf/1611.01989). ICLR'17
+
+Pu, Narasimhan, Solar-Lezama, Barzilay: [sk_p: a neural program corrector for MOOCs](https://dl.acm.org/citation.cfm?id=2989222). SPLASH'16
 
 Schufza, Sharma, Aiken: [Stochastic program optimization](https://cacm.acm.org/magazines/2016/2/197428-stochastic-program-optimization/fulltext). CACM’16
 
-Lee, Kihong, Alur, Naik: [Accelerating search-based program synthesis using learned probabilistic models](www.cis.upenn.edu/~mhnaik/papers/pldi18b.pdf). PLDI'18
-
-<!-- Bielik, Raychev, Vechev. [PHOG: Probabilistic Model for Code](http://www.srl.inf.ethz.ch/slides/ICML16_PHOG.pdf). ICML’16 -->
-
-Balog, Gaunt, Brockschmidt, Nowozin, Tarlow: [DeepCoder: Learning to Write Programs](https://arxiv.org/pdf/1611.01989). ICLR'17
+### Week 3
 
 Polozov, Gulwani: [FlashMeta: a framework for inductive program synthesis](https://homes.cs.washington.edu/~polozov/papers/oopsla2015-flashmeta.pdf). OOPSLA’15
 
