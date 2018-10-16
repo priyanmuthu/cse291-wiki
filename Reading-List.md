@@ -105,9 +105,9 @@ Balog, Gaunt, Brockschmidt, Nowozin, Tarlow: [DeepCoder: Learning to Write Progr
 
 Pu, Narasimhan, Solar-Lezama, Barzilay: [sk_p: a neural program corrector for MOOCs](https://dl.acm.org/citation.cfm?id=2989222). SPLASH'16
 
-Schufza, Sharma, Aiken: [Stochastic program optimization](https://cacm.acm.org/magazines/2016/2/197428-stochastic-program-optimization/fulltext). CACM’16
-
 ### Week 3
+
+Schufza, Sharma, Aiken: [Stochastic program optimization](https://cacm.acm.org/magazines/2016/2/197428-stochastic-program-optimization/fulltext). CACM’16
 
 Polozov, Gulwani: [FlashMeta: a framework for inductive program synthesis](https://homes.cs.washington.edu/~polozov/papers/oopsla2015-flashmeta.pdf). OOPSLA’15
 
