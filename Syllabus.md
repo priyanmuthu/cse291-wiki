@@ -9,7 +9,7 @@
 |Wed<br/> 10/10  | [EUSolver](Reading-List#week-1-eusolver) | | 
 |Thu<br/> 10/11 |Search space prioritization. Probabilistic models: PCFG, PHOG, Neural Nets for synthesis. <br/>[\[Slides\]](../blob/master/lectures/Lecture04.pdf)| |
 |Fri<br/> 10/12  | | Teams |
-|Tue<br/> 10/16 |Stochastic search, MCMC. Representation-based search: Version Space Algebra, Finite Tree Automata<br/><!--[\[Slides\]](../blob/master/lectures/Lecture05.pdf)-->| |
+|Tue<br/> 10/16 |Stochastic search, MCMC. Representation-based search: Version Space Algebra, Finite Tree Automata<br/>[\[Slides\]](../blob/master/lectures/Lecture05.pdf)| |
 |Wed<br/> 10/17 | [FlashFill](Reading-List#week-2-flashfill) | | 
 |Thu<br/> 10/18 |Constraint Solving: SAT, SMT<br/><!--[\[Slides\]](../blob/master/lectures/Lecture06.pdf)-->| |
 |Tue<br/> 10/23 |Constraint-based search<br/><!--[\[Slides\]](../blob/master/lectures/Lecture07.pdf)-->| |
