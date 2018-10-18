@@ -111,14 +111,14 @@ Schufza, Sharma, Aiken: [Stochastic program optimization](https://cacm.acm.org/m
 
 Polozov, Gulwani: [FlashMeta: a framework for inductive program synthesis](https://homes.cs.washington.edu/~polozov/papers/oopsla2015-flashmeta.pdf). OOPSLA’15
 
-Feng, Martins, Wang, Dillig, Reps: [Component-based synthesis for complex APIs](https://www.cs.utexas.edu/~isil/sypet-popl17.pdf). POPL'17
-
 <!-- Wang, Dillig, Singh: [Synthesis of Data Completion Scripts using Finite Tree Automata](http://www.cs.utexas.edu/~isil/dace.pdf). OOPSLA'17 -->
 Wang, Dillig, Singh: [Program synthesis using abstraction refinement](https://dl.acm.org/citation.cfm?doid=3158151). POPL'18
 
-### Week 4
-
 Nieuwenhuis, Oliveras, Tinelli: [Solving SAT and SAT Modulo Theories: From an abstract Davis--Putnam--Logemann--Loveland procedure to DPLL(T)](https://dl.acm.org/citation.cfm?id=1217859). JACM'06
+
+Feng, Martins, Bastani, Dillig: [Program synthesis using conflict-driven learning](https://www.cs.utexas.edu/~isil/pldi18-neo.pdf). PLDI'18
+
+### Week 4
 
 Gulwani, Jha, Tiwari, Venkatesan: [Synthesis of loop-free programs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/pldi11-loopfree-synthesis.pdf). PLDI’11
 
@@ -140,4 +140,4 @@ Itzhaky, Singh, Solar-Lezama, Yessenov, Lu, Leiserson, Chowdhury: [Deriving Divi
 
 Osera, Zdancewic: [Type-and-example-directed program synthesis](http://www.cis.upenn.edu/~stevez/papers/OZ15.pdf). PLDI'15
 
-Feng, Martins, Bastani, Dillig: [Program synthesis using conflict-driven learning](https://www.cs.utexas.edu/~isil/pldi18-neo.pdf). PLDI'18
+Feng, Martins, Wang, Dillig, Reps: [Component-based synthesis for complex APIs](https://www.cs.utexas.edu/~isil/sypet-popl17.pdf). POPL'17
