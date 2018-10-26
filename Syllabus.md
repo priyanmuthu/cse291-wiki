@@ -15,7 +15,7 @@
 |Tue<br/> 10/23 |Constraint-based search<br/>[\[Slides\]](../blob/master/lectures/Lecture07.pdf)| |
 |Wed<br/> 10/24 |[Brahma](Reading-List#week-3-brahma) | | 
 ||**Module II: Synthesis from Specifications**| |
-|Thu<br/> 10/25 |Specifications and guarantees. Bounded verification. Reduction to inductive synthesis: CEGIS.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture08.pdf)-->| |
+|Thu<br/> 10/25 |Specifications and guarantees. Bounded verification. Reduction to inductive synthesis: CEGIS.<br/>[\[Slides\]](../blob/master/lectures/Lecture08.pdf)| |
 |Fri<br/> 10/26  | | Proposal |
 |Tue<br/> 10/30 |Bounded constraint-based synthesis. Sketch, Rosette.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture09.pdf)-->| |
 |Wed<br/> 10/31 |[Sketch](Reading-List#week-4-sketch) | | 
