@@ -34,8 +34,8 @@
 |Thu<br/> 11/29 |Graphics. Databases.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture16.pdf)-->| |
 |Tue<br/> 12/4  |Machine Learning. Data wrangling. <!--<br/>[\[Slides\]](../blob/master/lectures/Lecture17.pdf)-->| |
 |Thu<br/> 12/6  |Security. |  |
-|Exam Week |*Project Presentations*.| Presentation |
-|Wed<br/> 12/12 | | Report |
+|Mon<br/> 12/10<br/> 3-6pm |*Project Presentations*.| Presentation |
+|Fri<br/> 12/14 | | Report |
 
 
 
