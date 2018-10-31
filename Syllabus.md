@@ -17,7 +17,7 @@
 ||**Module II: Synthesis from Specifications**| |
 |Thu<br/> 10/25 |Specifications and guarantees. Bounded verification. Reduction to inductive synthesis: CEGIS.<br/>[\[Slides\]](../blob/master/lectures/Lecture08.pdf)| |
 |Fri<br/> 10/26  | | Proposal |
-|Tue<br/> 10/30 |Bounded constraint-based synthesis. Sketch, Rosette.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture09.pdf)-->| |
+|Tue<br/> 10/30 |Bounded constraint-based synthesis. Sketch.<br/>[\[Slides\]](../blob/master/lectures/Lecture09.pdf)| |
 |Wed<br/> 10/31 |[Sketch](Reading-List#week-4-sketch) | | 
 |Thu<br/> 11/1 |Unbounded verification. Hoare logic.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture10.pdf)-->| |
 |Tue<br/> 11/6  |Unbounded constraint-based synthesis: from verification through invariant inference to synthesis.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture11.pdf)-->| |
