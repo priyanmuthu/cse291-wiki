@@ -136,6 +136,8 @@ Manna, Waldinger: [Synthesis: Dreams → Programs](https://ieeexplore.ieee.org/d
 
 Manna, Waldinger: [A Deductive Approach to Program Synthesis](https://pdfs.semanticscholar.org/ceb3/163c56465fda5fef591d0ff0a6c7f434a04d.pdf). TOPLAS'80
 
+Reynolds, Deters, Kuncak, Tinelli, Barrett: [Counterexample-Guided Quantifier Instantiation for Synthesis in SMT](lara.epfl.ch/~reynolds/cav15a.pdf). CAV'15
+
 Itzhaky, Singh, Solar-Lezama, Yessenov, Lu, Leiserson, Chowdhury: [Deriving Divide-and-Conquer Dynamic Programming Algorithms Using Solver-Aided Transformations](http://people.csail.mit.edu/shachari/dl/oopsla2016.pdf). OOPSLA'16
 
 Polikarpova, Sergey: [Structuring the Synthesis of Heap-Manipulating Programs](https://cseweb.ucsd.edu/~npolikarpova/publications/suslik.pdf). POPL'19
