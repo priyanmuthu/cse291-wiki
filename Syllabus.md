@@ -23,7 +23,7 @@
 |Tue<br/> 11/6  |From verification to invariant inference. Lattice search.<br/>[\[Slides\]](../blob/master/lectures/Lecture11.pdf)| |
 |Wed<br/> 11/7  |[VS3](Reading-List#week-5-vs3) | | 
 |Thu<br/> 11/8  |From invariant inference to synthesis. Proof-theoretic synthesis.<br/>[\[Slides\]](../blob/master/lectures/Lecture12.pdf)| |
-|Tue<br/> 11/13  |Deductive synthesis. Leon.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture13.pdf)-->| | |
+|Tue<br/> 11/13  |Deductive synthesis. Leon. <br/>[\[Slides\]](../blob/master/lectures/Lecture13.pdf)| | |
 |Wed<br/> 11/14  |[Leon](Reading-List#week-6-leon) | | 
 |Thu<br/> 11/15 |Enumerative synthesis with deductive reasoning. Type Systems.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture14.pdf)-->| |
 |Tue<br/> 11/20 |Type-driven synthesis. Syqnuid.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture15.pdf)-->| |
