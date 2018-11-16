@@ -25,8 +25,8 @@
 |Thu<br/> 11/8  |From invariant inference to synthesis. Proof-theoretic synthesis.<br/>[\[Slides\]](../blob/master/lectures/Lecture12.pdf)| |
 |Tue<br/> 11/13  |Deductive synthesis. Leon. <br/>[\[Slides\]](../blob/master/lectures/Lecture13.pdf)| | |
 |Wed<br/> 11/14  |[Leon](Reading-List#week-6-leon) | | 
-|Thu<br/> 11/15 |Enumerative synthesis with deductive reasoning. Type Systems.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture14.pdf)-->| |
-|Tue<br/> 11/20 |Type-driven synthesis. Syqnuid.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture15.pdf)-->| |
+|Thu<br/> 11/15 |Enumerative synthesis with deductive reasoning. Type Systems.<br/>[\[Slides\]](../blob/master/lectures/Lecture14.pdf)| |
+|Tue<br/> 11/20 |Type-driven synthesis. Synquid.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture15.pdf)-->| |
 |Wed<br/> 11/21 |[Synquid](Reading-List#week-7-synquid) | | 
 ||**Module III: Applications of synthesis**| | |
 |Thu<br/> 11/22 |*No class (Thanksgiving)*| |
