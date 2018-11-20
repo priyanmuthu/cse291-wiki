@@ -67,20 +67,22 @@ Polikarpova, Kuraj, Solar-Lezama: [Program synthesis from Polymorphic Refinement
 * Compare Synquid's condition abduction mechanism to the one in Leon.
 
 
-### Week 9: Superoptimization / Data Wrangling / Graphics
+### Week 9: Lens
 
-Read one of the following three papers, depending on the application area of interest:
-* Phothilimthana, Thakur, Bodik, Dhurjati: [Scaling Up Superoptimization](https://people.eecs.berkeley.edu/~mangpo/www/papers/lens-asplos16.pdf). ASPLOS’16
-* Feng, Martins, Van Geffen, Dillig, Chaudhuri: [Component-based synthesis of table consolidation and transformation tasks from examples](https://www.cs.rice.edu/~sc40/pubs/pldi17-morpheus.pdf). PLDI'17
-* Kamil, Cheung, Itzhaky, Solar-Lezama [Verified Lifting of Stencil Computations](https://people.csail.mit.edu/asolar/papers/KamilCIS16.pdf). PLDI'16
+Phothilimthana, Thakur, Bodik, Dhurjati: [Scaling Up Superoptimization](https://people.eecs.berkeley.edu/~mangpo/www/papers/lens-asplos16.pdf). ASPLOS’16
 
-### Week 10: Databases / Security / Machine Learning
+**Questions:**
 
-Read one of the following three papers, depending on the application area of interest:
+Coming soon
 
-* Yaghmazadeh, Wang, Dillig, Dillig: [SQLizer: Query Synthesis from Natural Language](https://www.cs.utexas.edu/~isil/sqlizer.pdf). OOPSLA'17
-* Gascón, Tiwari, Carmer, Mathur: [Look for the Proof to Find the Program: Decorated-Component-Based Program Synthesis](http://umathur3.web.engr.illinois.edu/papers/synudic-cav2017.pdf), CAV'17
-* Ellis, Solar-Lezama, Tenenbaum: [Unsupervised Learning by Program Synthesis](https://papers.nips.cc/paper/5785-unsupervised-learning-by-program-synthesis.pdf), NIPS'15
+### Week 10: SQLizer
+
+Yaghmazadeh, Wang, Dillig, Dillig: [SQLizer: Query Synthesis from Natural Language](https://www.cs.utexas.edu/~isil/sqlizer.pdf). OOPSLA'17
+
+**Questions:**
+
+Coming soon
+
 
 
 ## Recommended Reading
@@ -147,3 +149,17 @@ Polikarpova, Sergey: [Structuring the Synthesis of Heap-Manipulating Programs](h
 Osera, Zdancewic: [Type-and-example-directed program synthesis](http://www.cis.upenn.edu/~stevez/papers/OZ15.pdf). PLDI'15
 
 Feng, Martins, Wang, Dillig, Reps: [Component-based synthesis for complex APIs](https://www.cs.utexas.edu/~isil/sypet-popl17.pdf). POPL'17
+
+### Week 9
+
+Feng, Martins, Van Geffen, Dillig, Chaudhuri: [Component-based synthesis of table consolidation and transformation tasks from examples](https://www.cs.rice.edu/~sc40/pubs/pldi17-morpheus.pdf). PLDI'17
+
+Kamil, Cheung, Itzhaky, Solar-Lezama [Verified Lifting of Stencil Computations](https://people.csail.mit.edu/asolar/papers/KamilCIS16.pdf). PLDI'16
+
+### Week 10
+
+Gascón, Tiwari, Carmer, Mathur: [Look for the Proof to Find the Program: Decorated-Component-Based Program Synthesis](http://umathur3.web.engr.illinois.edu/papers/synudic-cav2017.pdf), CAV'17
+
+Ellis, Solar-Lezama, Tenenbaum: [Unsupervised Learning by Program Synthesis](https://papers.nips.cc/paper/5785-unsupervised-learning-by-program-synthesis.pdf), NIPS'15
+
+
