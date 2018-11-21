@@ -73,7 +73,9 @@ Phothilimthana, Thakur, Bodik, Dhurjati: [Scaling Up Superoptimization](https://
 
 **Questions:**
 
-Coming soon
+* What is the problem the paper is trying to solve? Why is it important? What are existing approaches to this problem?
+* What does Lens use as behavioral constraints? Structural constraints? Search strategy?
+* Discuss the three pruning technique of Lens (incremental observational equivalence, bidirectional search, reduced bit width) and compare them with other synthesizers
 
 ### Week 10: SQLizer
 
