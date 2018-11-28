@@ -26,14 +26,15 @@
 |Tue<br/> 11/13  |Deductive synthesis. Leon. <br/>[\[Slides\]](../blob/master/lectures/Lecture13.pdf)| | |
 |Wed<br/> 11/14  |[Leon](Reading-List#week-6-leon) | | 
 |Thu<br/> 11/15 |Enumerative synthesis with deductive reasoning. Type Systems.<br/>[\[Slides\]](../blob/master/lectures/Lecture14.pdf)| |
-|Tue<br/> 11/20 |Type-driven synthesis. Synquid.<br/>[\[Slides\]](../blob/master/lectures/Lecture15.pdf)| |
+|Tue<br/> 11/20 |Refinement types.<br/>[\[Slides\]](../blob/master/lectures/Lecture15.pdf)| |
 |Wed<br/> 11/21 |[Synquid](Reading-List#week-7-synquid) | | 
-||**Module III: Applications of synthesis**| | |
 |Thu<br/> 11/22 |*No class (Thanksgiving)*| |
-|Tue<br/> 11/27 |Superoptimization. | |
-|Thu<br/> 11/29 |Graphics. Databases.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture16.pdf)-->| |
-|Tue<br/> 12/4  |Machine Learning. Data wrangling. <!--<br/>[\[Slides\]](../blob/master/lectures/Lecture17.pdf)-->| |
-|Thu<br/> 12/6  |Security. |  |
+|Tue<br/> 11/27 |Type-driven synthesis. Synquid.<br/>[\[Slides\]](../blob/master/lectures/Lecture15.pdf) | |
+||**Module III: Applications of synthesis**| | |
+|Wed<br/> 11/28 |[Lens](Reading-List#week-8-lens) | | 
+|Thu<br/> 11/29 |Superoptimization.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture16.pdf)-->| |
+|Tue<br/> 12/4  |Graphics. Machine Learning. Data wrangling. <!--<br/>[\[Slides\]](../blob/master/lectures/Lecture17.pdf)-->| |
+|Thu<br/> 12/6  |Security. Databases. |  |
 |Mon<br/> 12/10<br/> 3-6pm |*Project Presentations*.| Presentation |
 |Fri<br/> 12/14 | | Report |
 
