@@ -157,11 +157,16 @@ Feng, Martins, Wang, Dillig, Reps: [Component-based synthesis for complex APIs](
 
 ### Week 9
 
+Loncaric, Torlak, Ernst: [Fast synthesis of fast collections](https://homes.cs.washington.edu/~mernst/pubs/collection-synthesis-pldi2016.pdf). PLDI'16
+
+Loncaric, Ernst, Torlak: [Generalized data structure synthesis](https://homes.cs.washington.edu/~mernst/pubs/generalized-synthesis-icse2018.pdf). ICSE'18
+
+
+### Week 10
+
 Feng, Martins, Van Geffen, Dillig, Chaudhuri: [Component-based synthesis of table consolidation and transformation tasks from examples](https://www.cs.rice.edu/~sc40/pubs/pldi17-morpheus.pdf). PLDI'17
 
 Kamil, Cheung, Itzhaky, Solar-Lezama [Verified Lifting of Stencil Computations](https://people.csail.mit.edu/asolar/papers/KamilCIS16.pdf). PLDI'16
-
-### Week 10
 
 Gascón, Tiwari, Carmer, Mathur: [Look for the Proof to Find the Program: Decorated-Component-Based Program Synthesis](http://umathur3.web.engr.illinois.edu/papers/synudic-cav2017.pdf), CAV'17
 
