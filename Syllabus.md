@@ -32,8 +32,9 @@
 |Tue<br/> 11/27 |Type-driven synthesis. Synquid.<br/>[\[Slides\]](../blob/master/lectures/Lecture15.pdf) | |
 ||**Module III: Applications of synthesis**| | |
 |Wed<br/> 11/28 |[Lens](Reading-List#week-9-lens) | | 
-|Thu<br/> 11/29 |Superoptimization.<!--<br/>[\[Slides\]](../blob/master/lectures/Lecture16.pdf)-->| |
+|Thu<br/> 11/29 |Superoptimization. Custom data structures <br/>[\[Slides\]](../blob/master/lectures/Lecture16.pdf)| |
 |Tue<br/> 12/4  |Graphics. Machine Learning. Data wrangling. <!--<br/>[\[Slides\]](../blob/master/lectures/Lecture17.pdf)-->| |
+|Wed<br/> 12/5 |[SQLizer](Reading-List#week-10-sqlizer) | | 
 |Thu<br/> 12/6  |Security. Databases. |  |
 |Mon<br/> 12/10<br/> 3-6pm |*Project Presentations*.| Presentation |
 |Fri<br/> 12/14 | | Report |
