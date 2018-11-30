@@ -83,7 +83,10 @@ Yaghmazadeh, Wang, Dillig, Dillig: [SQLizer: Query Synthesis from Natural Langua
 
 **Questions:**
 
-Coming soon
+* What is the problem the paper is trying to solve? What are existing approaches to this problem?
+* What does SQLizer use as behavioral constraints? Structural constraints? Search strategy?
+* Discuss the following three ideas behind SQLizer and relate them to other synthesizers we have seen: 1) sketch generation via semantic parsing 2) quantitative type inhabitation and 3) sketch refinement. 
+
 
 
 
