@@ -164,9 +164,13 @@ Loncaric, Ernst, Torlak: [Generalized data structure synthesis](https://homes.cs
 
 ### Week 10
 
+Le, Gulwani: [FlashExtract: a framework for data extraction by examples](https://dl.acm.org/citation.cfm?doid=2594291.2594333). PLDI'14
+
+Inala, Singh: [WebRelate: integrating web data with spreadsheets using examples](https://dl.acm.org/citation.cfm?doid=3177123.3158090). POPL'17
+
 Feng, Martins, Van Geffen, Dillig, Chaudhuri: [Component-based synthesis of table consolidation and transformation tasks from examples](https://www.cs.rice.edu/~sc40/pubs/pldi17-morpheus.pdf). PLDI'17
 
-Kamil, Cheung, Itzhaky, Solar-Lezama [Verified Lifting of Stencil Computations](https://people.csail.mit.edu/asolar/papers/KamilCIS16.pdf). PLDI'16
+<!-- Kamil, Cheung, Itzhaky, Solar-Lezama [Verified Lifting of Stencil Computations](https://people.csail.mit.edu/asolar/papers/KamilCIS16.pdf). PLDI'16 -->
 
 Gascón, Tiwari, Carmer, Mathur: [Look for the Proof to Find the Program: Decorated-Component-Based Program Synthesis](http://umathur3.web.engr.illinois.edu/papers/synudic-cav2017.pdf), CAV'17
 
