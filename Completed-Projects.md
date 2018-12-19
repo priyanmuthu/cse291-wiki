@@ -1,3 +1,31 @@
+## 2018
+
+The following course projects have been completed as a result of this class in Fall 2018
+
+### Hoogle Plus: Type-driven and Component-based Synthesis
+*David Justo, Michael James*
+
+We explore large-scale component- and type-based synthesis in Haskell. Popular open source packages contain knowledge beyond their types and natural language documentation about how functions are typically composed. Hoogle Plus seeks to generate community-inspired straight-line code snippets from a type signature and a set of components, utilizing Haskell's strong type system and common function compositions in the wild.
+
+### PhonoSynthesis: Symbolic inference of phonological rules
+*Shraddha Barke, Rose Kunkel, Qian Xiong*
+
+Phonological rules are general principles that apply to all words of a natural class that is defined in terms of phonological properties. We propose constraint based synthesis from examples to the problem of learning phonological rules. The phonological rules are expressed as constraints over the features of speech sounds. We divide the problem into inferring the change and inferring the condition, and give an encoding of these subproblems as SAT queries. Using these SAT queries, together with Z3’s soft constraints, we synthesize Russian devoicing and Korean deaspiration rules. We conclude that constraint-based synthesis is a viable approach for synthesizing phonological rules.
+
+[github](https://github.com/shraddhabarke/Phonosynthesis)
+
+### Tandoph: Automated Compiler Synthesis
+*John Messerly, Patrick Liu*
+
+We explore the use of examples and specifications for building compilers. Tandoph can be given a mixture of specifications and hard examples in a novel (functional) programming language, and uses representation based search to design an x86 compiler that satisfies all constraints. It builds on the older project META II, and can synthesize most x86 compilers that use numbers, variables, conditionals and loops.
+
+[github](https://github.com/ptliu/tandoph)
+
+### Code Completion using Statistical Language Models
+*Anirudh Shekhawat*
+
+We explore an approach for automated completion of API calls. Given a program with holes (missing method invocations), we make use of program analysis and statistical models to predict the most likely method invocation. The project involved designing a static program analysis process to extract useful sequences of method calls from publicly available code, a statistical model to learn the likelihood of sequences, and an algorithm to choose the most optimal completion for a given hole.
+
 ## 2017
 
 The following course projects have been completed as a result of this class in Fall 2017
