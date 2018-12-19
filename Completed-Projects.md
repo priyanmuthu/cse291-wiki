@@ -2,6 +2,13 @@
 
 The following course projects have been completed as a result of this class in Fall 2018
 
+### Deductive Synthesis of Layout Constraints From Examples
+*Ariel Weingarten, Dylan Lukes, Cora Coleman*
+
+There are more than 5 billion mobile devices in use in the world today. To maintain consistency across screen conformations (size and density) developers define user interfaces using constraint-based layout systems. Constraints are capable of expressing conformation-independent layout behavior but require a great deal of error-prone mechanical thinking on the part of the user. We introduce a method for synthesizing layout constraints from mockups. We apply a representation-based search over version space algebras constructed by back propagation of specifications derived from concrete examples down a restricted grammar of linear integer arithmetic constraints. We evaluate our technique on several example layouts and find that we generate equivalent constraints as the ground truth (plus a few thousand extras), and suggest several directions for future work to refine this system.
+
+[github](https://github.com/DylanLukes/Mockdown)
+
 ### Hoogle Plus: Type-driven and Component-based Synthesis
 *David Justo, Michael James*
 
