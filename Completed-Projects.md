@@ -14,6 +14,17 @@ There are more than 5 billion mobile devices in use in the world today. To maint
 
 We explore large-scale component- and type-based synthesis in Haskell. Popular open source packages contain knowledge beyond their types and natural language documentation about how functions are typically composed. Hoogle Plus seeks to generate community-inspired straight-line code snippets from a type signature and a set of components, utilizing Haskell's strong type system and common function compositions in the wild.
 
+### bReal: Synthesizing the Fast Inverse Square Root
+*Chris Lamb, Erin McGinnis, Kaiser Pister*
+
+Trial and error has previously been the only method to experimentally design and optimize approximate
+floating point algorithms. Due to the nature of these approximate algorithms, it is computationally straining
+to produce and verify new designs. Leveraging new advances in real number satisfiability modulo theories
+solvers (SMT), we construct a program synthesizer to enumeratively generate efficient, approximate copies of
+previously expensive floating point algorithms. Once an algorithm is generated, we can verify its functionality
+and the bounds of its approximation across a range of floating points. In this paper we are able to achieve this
+goal for the inverse square root function.
+
 ### PhonoSynthesis: Symbolic inference of phonological rules
 *Shraddha Barke, Rose Kunkel, Qian Xiong*
 
