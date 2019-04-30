@@ -32,6 +32,13 @@ Phonological rules are general principles that apply to all words of a natural c
 
 [github](https://github.com/shraddhabarke/Phonosynthesis)
 
+### Synthesizing Replacements for Assembly Instructions on a Faulty Chip
+*Georgios Sakkas, Jacob Imola*
+
+With our ever-increasing demand for fast computing, processors are becoming more complicated than ever before making hardware more susceptible to design and manufacturing bugs. When bugs are present, it is desirable to fix them without replacing the expensive chips if possible. We propose a method for synthesizing a program equivalent to a sequence of faulty assembly instructions using one Turing-complete instruction, subleq. Our method fixes these instruction-level bugs with just the addition of a cheap coprocessor that computes subleq. We synthesize equivalents for single instructions like add and conditional branching as well as sequences of 3-4 instructions. We find that our method usually performs as well their hand-written counterparts, and for sequences of 3-4 instructions, discovers nontrivial shortcuts over the naive method of replacing each instruction individually. Our code can be found at:
+
+[github](https://github.com/gsakkas/urisc-synthesis)
+
 ### Tandoph: Automated Compiler Synthesis
 *John Messerly, Patrick Liu*
 
