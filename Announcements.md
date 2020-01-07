@@ -1,8 +1,8 @@
+<!--
 ## 2018
 
 **Sep 21:** Nadia is traveling during Week 0, so there is **no lecture** on Sep 27. The first lecture will be on October 2.
 
-<!--
 ## 2017
 
 **Oct 1:** To be able to submit reviews through EasyChair, you have to associate your EasyChair account with the email address used for the Program Committee invitation (@ucsd.edu instead of @eng.ucsd.edu). You will then be able to login as "PC member" instead of "Author" and see your review assignment under "Review -> My Papers". 
