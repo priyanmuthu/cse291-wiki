@@ -2,7 +2,7 @@
 
 | Day           | Class Topic / Reading Assignment | Project milestone |
 |:-------------:| ----- | :-------:|
-|Tue<br/> 1/7   |**Course Overview:** What is program synthesis? Dimensions in programs synthesis: behavioral constraints, structural constraints, search strategies. Interaction modes.<br/>[\[Slides\]](../blob/master/lectures/Lecture01.pdf) [\[Sketch online\]](http://sketch1.csail.mit.edu/demo/pages/sketchexp) [\[Sketch demo\]](http://people.csail.mit.edu/asolar/gal/isolateRightmost.sk.html) [\[Synquid demo\]](http://comcom.csail.mit.edu/demos/#intersection)| |
+|Tue<br/> 1/7   |**Course Overview:** What is program synthesis? Dimensions in programs synthesis: behavioral constraints, structural constraints, search strategies. Interaction modes.<br/>[\[Slides\]](../blob/master/lectures/Lecture01.pdf) [\[Synquid demo\]](http://comcom.csail.mit.edu/demos/#intersection)| |
 |Thu<br/> 1/9   | | | 
 |Tue<br/> 1/14  | | |
 |Wed<br/> 1/15  | [EUSolver](Reading-List#week-2-eusolver) | | 
