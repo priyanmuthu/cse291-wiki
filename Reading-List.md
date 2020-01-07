@@ -10,6 +10,7 @@ Alur, Radhakrishna, Udupa. [Scaling Enumerative Program Synthesis via Divide and
 * What are the main two pruning/decomposition techniques EUSolver uses to speed up the search? What enables these technique?
 * What would be a naive alternative to decision tree learning for synthesizing branch conditions? What are the disadvantages of this alternative?
 
+<!--
 ### Week 3: FlashFill
 Gulwani: [Automating string processing in spreadsheets using input-output examples](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf). POPL'11
 
@@ -87,7 +88,7 @@ Yaghmazadeh, Wang, Dillig, Dillig: [SQLizer: Query Synthesis from Natural Langua
 * What does SQLizer use as behavioral constraints? Structural constraints? Search strategy?
 * Discuss the following three ideas behind SQLizer and relate them to other synthesizers we have seen: 1) sketch generation via semantic parsing 2) quantitative type inhabitation and 3) sketch refinement. 
 
-
+-->
 
 
 ## Recommended Reading
@@ -97,6 +98,8 @@ Yaghmazadeh, Wang, Dillig, Dillig: [SQLizer: Query Synthesis from Natural Langua
 Gulwani: [Dimensions in Program Synthesis](https://dl.acm.org/citation.cfm?id=1836091). PPDP'10
 
 Alur, Bodík, Juniwal, Martin, Raghothaman, Seshia, Singh, Solar-Lezama, Torlak, Udupa: [Syntax-guided synthesis](http://sygus.seas.upenn.edu/files/sygus_extended.pdf). FMCAD'13
+
+<!--
 
 ### Week 2
 
@@ -118,7 +121,6 @@ Schufza, Sharma, Aiken: [Stochastic program optimization](https://cacm.acm.org/m
 
 Polozov, Gulwani: [FlashMeta: a framework for inductive program synthesis](https://homes.cs.washington.edu/~polozov/papers/oopsla2015-flashmeta.pdf). OOPSLA’15
 
-<!-- Wang, Dillig, Singh: [Synthesis of Data Completion Scripts using Finite Tree Automata](http://www.cs.utexas.edu/~isil/dace.pdf). OOPSLA'17 -->
 Wang, Dillig, Singh: [Program synthesis using abstraction refinement](https://dl.acm.org/citation.cfm?doid=3158151). POPL'18
 
 Nieuwenhuis, Oliveras, Tinelli: [Solving SAT and SAT Modulo Theories: From an abstract Davis--Putnam--Logemann--Loveland procedure to DPLL(T)](https://dl.acm.org/citation.cfm?id=1217859). JACM'06
@@ -170,10 +172,10 @@ Inala, Singh: [WebRelate: integrating web data with spreadsheets using examples]
 
 Feng, Martins, Van Geffen, Dillig, Chaudhuri: [Component-based synthesis of table consolidation and transformation tasks from examples](https://www.cs.rice.edu/~sc40/pubs/pldi17-morpheus.pdf). PLDI'17
 
-<!-- Kamil, Cheung, Itzhaky, Solar-Lezama [Verified Lifting of Stencil Computations](https://people.csail.mit.edu/asolar/papers/KamilCIS16.pdf). PLDI'16 -->
+Kamil, Cheung, Itzhaky, Solar-Lezama [Verified Lifting of Stencil Computations](https://people.csail.mit.edu/asolar/papers/KamilCIS16.pdf). PLDI'16
 
 Gascón, Tiwari, Carmer, Mathur: [Look for the Proof to Find the Program: Decorated-Component-Based Program Synthesis](http://umathur3.web.engr.illinois.edu/papers/synudic-cav2017.pdf), CAV'17
 
 Ellis, Solar-Lezama, Tenenbaum: [Unsupervised Learning by Program Synthesis](https://papers.nips.cc/paper/5785-unsupervised-learning-by-program-synthesis.pdf), NIPS'15
 
-
+-->
