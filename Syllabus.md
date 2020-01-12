@@ -2,37 +2,39 @@
 
 | Day           | Class Topic / Reading Assignment | Project milestone |
 |:-------------:| ----- | :-------:|
-|Tue<br/> 1/7   |**Course Overview:** What is program synthesis? Dimensions in programs synthesis: behavioral constraints, structural constraints, search strategies. Interaction modes.<br/>[\[Slides\]](../blob/master/lectures/Lecture01.pdf) [\[Synquid demo\]](http://comcom.csail.mit.edu/demos/#intersection)| |
-|Thu<br/> 1/9   | | | 
-|Tue<br/> 1/14  | | |
+|Tue<br/> 1/7   |**Course Overview:** What is program synthesis? Dimensions in programs synthesis: behavioral constraints, structural constraints, search strategies.<br/>[\[Slides\]](../blob/master/lectures/Lecture01.pdf) [\[Synquid demo\]](http://comcom.csail.mit.edu/demos/#intersection)| |
+| |**Module I: Searching for Simple Programs** | |
+|Thu<br/> 1/9   | Inductive synthesis. Syntax-guided synthesis. Enumerative search: bottom-up vs top-down.<br/>[\[Slides\]](../blob/master/lectures/Lecture02.pdf) | | 
+|Tue<br/> 1/14  | Search space pruning: equivalence reduction, top-down constraint propagation. Condition abduction. | |
 |Wed<br/> 1/15  | [EUSolver](Reading-List#week-2-eusolver) | | 
-|Thu<br/> 1/16  | | |
+|Thu<br/> 1/16  | Search space prioritization. Probabilistic models of code. Learning to synthesize. | |
 |Fri<br/> 1/18  | | Teams |
-|Tue<br/> 1/21  | | |
-|Wed<br/> 1/22  | | | 
-|Thu<br/> 1/23  | | |
-|Tue<br/> 1/28  | | |
-|Wed<br/> 1/29  | | | 
-|Thu<br/> 1/30  | | |
+|Tue<br/> 1/21  | *Guest lecture (John Sarracino)*: Synthesis framework demos | |
+|Wed<br/> 1/22  | *Euphony* | | 
+|Thu<br/> 1/23  | *Guest lecture (John Sarracino)*: Synthesis framework demos| |
+|Tue<br/> 1/28  | Stochastic search, MCMC. Representation-based search: Type-transition Nets. | |
+|Wed<br/> 1/29  | *BlinkFill* | | 
+|Thu<br/> 1/30  | Representation-based search (contd.): Version-Space Algebra, Finite Tree Automata. | |
 |Fri<br/> 1/31  | | Proposal |
-|Tue<br/> 2/4   | | |
-|Wed<br/> 2/5   | | | 
-|Thu<br/> 2/6   | | |
-|Tue<br/> 2/11  | | |
-|Wed<br/> 2/12  | | | 
-|Thu<br/> 2/13  | | |
-|Tue<br/> 2/18  | | |
-|Wed<br/> 2/19  | | | 
-|Thu<br/> 2/20  | | |
-|Tue<br/> 2/25  | | |
-|Wed<br/> 2/26  | | | 
-|Thu<br/> 2/27  | | |
+|Tue<br/> 2/4   | Constraint Solving: SAT, SMT, MaxSAT, MaxSMT. | |
+|Wed<br/> 2/5   | *Brahma* | | 
+|Thu<br/> 2/6   | Constraint-based search. | |
+| |**Module I: Searching for Complex Programs** | |
+|Tue<br/> 2/11  | Loops and recursion: challenges. Specifications and guarantees. Bounded verification. CEGIS. | |
+|Wed<br/> 2/12  | *Sketch* | | 
+|Thu<br/> 2/13  | Bounded constraint-based synthesis. Sketch. | |
+|Tue<br/> 2/18  | Unbounded verification of functional programs. Type Systems. Refinement types. | |
+|Wed<br/> 2/19  | *Synquid* | | 
+|Thu<br/> 2/20  | Type-driven program synthesis. | |
+|Tue<br/> 2/25  | Unbounded verification of imperative programs. Hoare logic. Separation logic. | |
+|Wed<br/> 2/26  | *SuSLik* | | 
+|Thu<br/> 2/27  | Constraint-based synthesis with loop invariants. Deductive synthesis. | |
 |Tue<br/> 3/3   | | |
-|Wed<br/> 3/4   | | | 
+|Wed<br/> 3/4   | *TBD* | | 
 |Thu<br/> 3/5   | | |
-|Tue<br/> 3/10  | | |
-|Wed<br/> 3/11  | | | 
-|Thu<br/> 3/12  | | |
+|Tue<br/> 3/10  | *Guest lecture (Hila Peleg)* | |
+|Wed<br/> 3/11  | *GIM* | | 
+|Thu<br/> 3/12  | *Guest lecture (Hila Peleg)*| |
 |Tue<br/> 3/17<br/> 3-6pm |*Project Presentations*.| Presentation |
 |Fri<br/> 3/20 | | Report |
 
