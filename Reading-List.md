@@ -164,44 +164,51 @@ Balog, Gaunt, Brockschmidt, Nowozin, Tarlow: [DeepCoder: Learning to Write Progr
 
 Schufza, Sharma, Aiken: [Stochastic program optimization](https://cacm.acm.org/magazines/2016/2/197428-stochastic-program-optimization/fulltext). CACM’16
 
+Le, Gulwani: [FlashExtract: a framework for data extraction by examples](https://dl.acm.org/citation.cfm?doid=2594291.2594333). PLDI'14
+
 Polozov, Gulwani: [FlashMeta: a framework for inductive program synthesis](https://homes.cs.washington.edu/~polozov/papers/oopsla2015-flashmeta.pdf). OOPSLA’15
 
 Vijayakumar, Mohta, Polozov, Batra, Jain, Gulwani [Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/main-ml2search.pdf). ICLR'18
 
 Wang, Dillig, Singh: [Program synthesis using abstraction refinement](https://dl.acm.org/citation.cfm?doid=3158151). POPL'18
 
-
 Gvero, Kuncak, Kuraj, Piskac: [Complete completion using types and weights](http://www.cs.yale.edu/homes/piskac/papers/2013GveroETALCompletion.pdf) PLDI'13
 
 Feng, Martins, Wang, Dillig, Reps: [Component-based synthesis for complex APIs](https://www.cs.utexas.edu/~isil/sypet-popl17.pdf). POPL'17
 
-<!--
-
-Pu, Narasimhan, Solar-Lezama, Barzilay: [sk_p: a neural program corrector for MOOCs](https://dl.acm.org/citation.cfm?id=2989222). SPLASH'16
-
--->
-
-<!--
-### Week 3
-
+### Week 5
 
 Nieuwenhuis, Oliveras, Tinelli: [Solving SAT and SAT Modulo Theories: From an abstract Davis--Putnam--Logemann--Loveland procedure to DPLL(T)](https://dl.acm.org/citation.cfm?id=1217859). JACM'06
 
+Jha, Gulwani, Seshia, Tiwari: [Oracle-guided component-based program synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/icse10_synthesis.pdf). ICSE’10
+
+Feng, Martins, Van Geffen, Dillig, Chaudhuri: [Component-based synthesis of table consolidation and transformation tasks from examples](https://www.cs.rice.edu/~sc40/pubs/pldi17-morpheus.pdf). PLDI'17
+
 Feng, Martins, Bastani, Dillig: [Program synthesis using conflict-driven learning](https://www.cs.utexas.edu/~isil/pldi18-neo.pdf). PLDI'18
-
-### Week 4
-
-Gulwani, Jha, Tiwari, Venkatesan: [Synthesis of loop-free programs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/pldi11-loopfree-synthesis.pdf). PLDI’11
-
-### Week 5
-
-Torlak, Bodik: [Growing Solver-Aided Languages with ROSETTE](https://homes.cs.washington.edu/~emina/pubs/rosette.onward13.pdf). Onward!’13
 
 ### Week 6
 
-Qiu, Solar-Lezama: [Natural Synthesis of Provably-Correct Data-Structure Manipulations](https://engineering.purdue.edu/~xqiu/natural-synthesis.pdf). OOPSLA'17
+Torlak, Bodik: [A Lightweight Symbolic Virtual Machinefor Solver-Aided Host Languages](https://homes.cs.washington.edu/~emina/doc/rosette.pldi14.pdf). PLDI'14
 
 ### Week 7
+
+Osera, Zdancewic: [Type-and-example-directed program synthesis](http://www.cis.upenn.edu/~stevez/papers/OZ15.pdf). PLDI'15
+
+Frankle, Osera, Walker, Zdancewic: [Example-directed synthesis: a type-theoretic interpretation](https://www.cs.princeton.edu/~dpw/papers/type-synthesis-popl-2016.pdf). POPL'16
+
+Düdder, Martens, Rehof: [Staged Composition Synthesis](https://link.springer.com/chapter/10.1007%2F978-3-642-54833-8_5). ESOP'14
+
+Scherer, Rémy: [Which simple types have a unique inhabitant?](http://gallium.inria.fr/~scherer/drafts/unique_stlc_sums.pdf). ICFP'15
+
+Knoth, Wang, Polikarpova, Hoffman: [Resource-Guided Program Synthesis](https://cseweb.ucsd.edu/~npolikarpova/publications/pldi19.pdf). PLDI'19
+
+### Week 8
+
+Srivastava, Gulwani, Foster: [From program verification to program synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl10_synthesis.pdf). POPL'10
+
+Qiu, Solar-Lezama: [Natural Synthesis of Provably-Correct Data-Structure Manipulations](https://engineering.purdue.edu/~xqiu/natural-synthesis.pdf). OOPSLA'17
+
+Kneuss, Kuraj, Kuncak, Suter: [Synthesis modulo recursive functions](http://lara.epfl.ch/~kuncak/papers/KneussETAL13SynthesisModuloRecursiveFunctions.pdf). OOPSLA’13
 
 Manna, Waldinger: [Synthesis: Dreams → Programs](https://ieeexplore.ieee.org/document/1702636). TSE'79
 
@@ -209,15 +216,16 @@ Manna, Waldinger: [A Deductive Approach to Program Synthesis](https://pdfs.seman
 
 Reynolds, Deters, Kuncak, Tinelli, Barrett: [Counterexample-Guided Quantifier Instantiation for Synthesis in SMT](lara.epfl.ch/~reynolds/cav15a.pdf). CAV'15
 
+
+<!--
+
+Torlak, Bodik: [Growing Solver-Aided Languages with ROSETTE](https://homes.cs.washington.edu/~emina/pubs/rosette.onward13.pdf). Onward!’13
+
+Pu, Narasimhan, Solar-Lezama, Barzilay: [sk_p: a neural program corrector for MOOCs](https://dl.acm.org/citation.cfm?id=2989222). SPLASH'16
+
 Itzhaky, Singh, Solar-Lezama, Yessenov, Lu, Leiserson, Chowdhury: [Deriving Divide-and-Conquer Dynamic Programming Algorithms Using Solver-Aided Transformations](http://people.csail.mit.edu/shachari/dl/oopsla2016.pdf). OOPSLA'16
 
-Polikarpova, Sergey: [Structuring the Synthesis of Heap-Manipulating Programs](https://cseweb.ucsd.edu/~npolikarpova/publications/suslik.pdf). POPL'19
 
-### Week 8
-
-Osera, Zdancewic: [Type-and-example-directed program synthesis](http://www.cis.upenn.edu/~stevez/papers/OZ15.pdf). PLDI'15
-
-Feng, Martins, Wang, Dillig, Reps: [Component-based synthesis for complex APIs](https://www.cs.utexas.edu/~isil/sypet-popl17.pdf). POPL'17
 
 ### Week 9
 
@@ -228,11 +236,8 @@ Loncaric, Ernst, Torlak: [Generalized data structure synthesis](https://homes.cs
 
 ### Week 10
 
-Le, Gulwani: [FlashExtract: a framework for data extraction by examples](https://dl.acm.org/citation.cfm?doid=2594291.2594333). PLDI'14
 
 Inala, Singh: [WebRelate: integrating web data with spreadsheets using examples](https://dl.acm.org/citation.cfm?doid=3177123.3158090). POPL'17
-
-Feng, Martins, Van Geffen, Dillig, Chaudhuri: [Component-based synthesis of table consolidation and transformation tasks from examples](https://www.cs.rice.edu/~sc40/pubs/pldi17-morpheus.pdf). PLDI'17
 
 Kamil, Cheung, Itzhaky, Solar-Lezama [Verified Lifting of Stencil Computations](https://people.csail.mit.edu/asolar/papers/KamilCIS16.pdf). PLDI'16
 
