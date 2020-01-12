@@ -146,29 +146,44 @@ Gulwani: [Dimensions in Program Synthesis](https://dl.acm.org/citation.cfm?id=18
 
 Alur, Bodík, Juniwal, Martin, Raghothaman, Seshia, Singh, Solar-Lezama, Torlak, Udupa: [Syntax-guided synthesis](http://sygus.seas.upenn.edu/files/sygus_extended.pdf). FMCAD'13
 
-<!--
-
 ### Week 2
 
 Albarghouthi, Gulwani, Kincaid: [Recursive Program Synthesis](http://pages.cs.wisc.edu/~aws/papers/cav13a.pdf). CAV'13
 
 Feser, Chaudhuri, Dillig: [Synthesizing Data Structure Transformations from Input-Output Examples](http://www.cs.utexas.edu/~isil/pldi15b.pdf). PLDI 2015
 
-Lee, Kihong, Alur, Naik: [Accelerating search-based program synthesis using learned probabilistic models](www.cis.upenn.edu/~mhnaik/papers/pldi18b.pdf). PLDI'18
+### Week 3
+
+Raychev, Vechev, Yahav. [Code Completion with Statistical Language Models](http://www.cs.technion.ac.il/~yahave/papers/pldi14-statistical.pdf). PLDI'14
 
 Bielik, Raychev, Vechev. [PHOG: Probabilistic Model for Code](http://www.srl.inf.ethz.ch/slides/ICML16_PHOG.pdf). ICML’16
 
 Balog, Gaunt, Brockschmidt, Nowozin, Tarlow: [DeepCoder: Learning to Write Programs](https://arxiv.org/pdf/1611.01989). ICLR'17
 
-Pu, Narasimhan, Solar-Lezama, Barzilay: [sk_p: a neural program corrector for MOOCs](https://dl.acm.org/citation.cfm?id=2989222). SPLASH'16
-
-### Week 3
+### Week 4
 
 Schufza, Sharma, Aiken: [Stochastic program optimization](https://cacm.acm.org/magazines/2016/2/197428-stochastic-program-optimization/fulltext). CACM’16
 
 Polozov, Gulwani: [FlashMeta: a framework for inductive program synthesis](https://homes.cs.washington.edu/~polozov/papers/oopsla2015-flashmeta.pdf). OOPSLA’15
 
+Vijayakumar, Mohta, Polozov, Batra, Jain, Gulwani [Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/main-ml2search.pdf). ICLR'18
+
 Wang, Dillig, Singh: [Program synthesis using abstraction refinement](https://dl.acm.org/citation.cfm?doid=3158151). POPL'18
+
+
+Gvero, Kuncak, Kuraj, Piskac: [Complete completion using types and weights](http://www.cs.yale.edu/homes/piskac/papers/2013GveroETALCompletion.pdf) PLDI'13
+
+Feng, Martins, Wang, Dillig, Reps: [Component-based synthesis for complex APIs](https://www.cs.utexas.edu/~isil/sypet-popl17.pdf). POPL'17
+
+<!--
+
+Pu, Narasimhan, Solar-Lezama, Barzilay: [sk_p: a neural program corrector for MOOCs](https://dl.acm.org/citation.cfm?id=2989222). SPLASH'16
+
+-->
+
+<!--
+### Week 3
+
 
 Nieuwenhuis, Oliveras, Tinelli: [Solving SAT and SAT Modulo Theories: From an abstract Davis--Putnam--Logemann--Loveland procedure to DPLL(T)](https://dl.acm.org/citation.cfm?id=1217859). JACM'06
 
