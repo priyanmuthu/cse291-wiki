@@ -19,7 +19,7 @@
 |Tue<br/> 2/4   | Constraint Solving: SAT, SMT, MaxSAT, MaxSMT. | |
 |Wed<br/> 2/5   | *Brahma* | | 
 |Thu<br/> 2/6   | Constraint-based search. | |
-| |**Module I: Searching for Complex Programs** | |
+| |**Module II: Searching for Complex Programs** | |
 |Tue<br/> 2/11  | Loops and recursion: challenges. Specifications and guarantees. Bounded verification. CEGIS. | |
 |Wed<br/> 2/12  | *Sketch* | | 
 |Thu<br/> 2/13  | Bounded constraint-based synthesis. Sketch. | |
@@ -29,6 +29,7 @@
 |Tue<br/> 2/25  | Unbounded verification of imperative programs. Hoare logic. Separation logic. | |
 |Wed<br/> 2/26  | *SuSLik* | | 
 |Thu<br/> 2/27  | Constraint-based synthesis with loop invariants. Deductive synthesis. | |
+| |**Module III: Applications of Synthesis** | |
 |Tue<br/> 3/3   | | |
 |Wed<br/> 3/4   | *TBD* | | 
 |Thu<br/> 3/5   | | |
