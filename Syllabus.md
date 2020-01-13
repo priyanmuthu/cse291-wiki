@@ -10,24 +10,24 @@
 |Thu<br/> 1/16  | Search space prioritization. Probabilistic models of code. Learning to synthesize. | |
 |Fri<br/> 1/18  | | Teams |
 |Tue<br/> 1/21  | *Guest lecture (John Sarracino)*: Synthesis framework demos | |
-|Wed<br/> 1/22  | *Euphony* | | 
+|Wed<br/> 1/22  | [Euphony](Reading-List#week-3-euphony) | | 
 |Thu<br/> 1/23  | *Guest lecture (John Sarracino)*: Synthesis framework demos| |
 |Tue<br/> 1/28  | Stochastic search, MCMC. Representation-based search: Type-transition Nets. | |
-|Wed<br/> 1/29  | *BlinkFill* | | 
+|Wed<br/> 1/29  | [BlinkFill](Reading-List#week-4-blinkfill) | | 
 |Thu<br/> 1/30  | Representation-based search (contd.): Version-Space Algebra, Finite Tree Automata. | |
 |Fri<br/> 1/31  | | Proposal |
 |Tue<br/> 2/4   | Constraint Solving: SAT, SMT, MaxSAT, MaxSMT. | |
-|Wed<br/> 2/5   | *Brahma* | | 
+|Wed<br/> 2/5   | [Brahma](Reading-List#week-5-brahma) | | 
 |Thu<br/> 2/6   | Constraint-based search. | |
 | |**Module II: Searching for Complex Programs** | |
 |Tue<br/> 2/11  | Loops and recursion: challenges. Specifications and guarantees. Bounded verification. CEGIS. | |
-|Wed<br/> 2/12  | *Sketch* | | 
+|Wed<br/> 2/12  | [Sketch](Reading-List#week-6-sketch) | | 
 |Thu<br/> 2/13  | Bounded constraint-based synthesis. Sketch. | |
 |Tue<br/> 2/18  | Unbounded verification of functional programs. Type Systems. Refinement types. | |
-|Wed<br/> 2/19  | *Synquid* | | 
+|Wed<br/> 2/19  | [Synquid](Reading-List#week-7-synquid) | | 
 |Thu<br/> 2/20  | Type-driven program synthesis. | |
 |Tue<br/> 2/25  | Unbounded verification of imperative programs. Hoare logic. Separation logic. | |
-|Wed<br/> 2/26  | *SuSLik* | | 
+|Wed<br/> 2/26  | [SuSLik](Reading-List#week-8-suslik) | | 
 |Thu<br/> 2/27  | Constraint-based synthesis with loop invariants. Deductive synthesis. | |
 | |**Module III: Applications of Synthesis** | |
 |Tue<br/> 3/3   | | |
