@@ -148,7 +148,12 @@ Alur, Bodík, Juniwal, Martin, Raghothaman, Seshia, Singh, Solar-Lezama, Torlak,
 
 ### Week 2
 
+
+Udupa, Raghavan, Deshmukh, Mador-Haim, Martin, Alur: [TRANSIT: specifying protocols with concolic snippets](http://acg.cis.upenn.edu/papers/pldi13_transit.pdf). PLDI'13
+
 Albarghouthi, Gulwani, Kincaid: [Recursive Program Synthesis](http://pages.cs.wisc.edu/~aws/papers/cav13a.pdf). CAV'13
+
+Phothilimthana, Thakur, Bodik, Dhurjati: [Scaling Up Superoptimization](https://people.eecs.berkeley.edu/~mangpo/www/papers/lens-asplos16.pdf). ASPLOS’16
 
 Feser, Chaudhuri, Dillig: [Synthesizing Data Structure Transformations from Input-Output Examples](http://www.cs.utexas.edu/~isil/pldi15b.pdf). PLDI 2015
 
