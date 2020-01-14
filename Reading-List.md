@@ -155,6 +155,8 @@ Albarghouthi, Gulwani, Kincaid: [Recursive Program Synthesis](http://pages.cs.wi
 
 Phothilimthana, Thakur, Bodik, Dhurjati: [Scaling Up Superoptimization](https://people.eecs.berkeley.edu/~mangpo/www/papers/lens-asplos16.pdf). ASPLOS’16
 
+Smith, Albarghouthi [Program Synthesis with Equivalence Reduction](http://pages.cs.wisc.edu/~aws/papers/vmcai19.pdf). VMCAI'19
+
 Feser, Chaudhuri, Dillig: [Synthesizing Data Structure Transformations from Input-Output Examples](http://www.cs.utexas.edu/~isil/pldi15b.pdf). PLDI 2015
 
 ### Week 3
