@@ -7,8 +7,8 @@ Rajeev Alur, Arjun Radhakrishna, Abhishek Udupa: [Scaling Enumerative Program Sy
 
 **Questions:**
 * What does EUSolver use as behavioral constraints? Structural constraint? Search strategy?
-* What are the main two pruning/decomposition techniques EUSolver uses to speed up the search? What enables these technique?
-* What would be a naive alternative to decision tree learning for synthesizing branch conditions? What are the disadvantages of this alternative?
+* What are the main two pruning/decomposition techniques EUSolver uses to speed up the search? What enables these techniques?
+* What would a naive alternative to decision tree learning be for synthesizing branch conditions? What are the disadvantages of this alternative?
 
 ### Week 3: Euphony
 
