@@ -5,7 +5,7 @@
 |Tue<br/> 1/7   |**Course Overview:** What is program synthesis? Dimensions in programs synthesis: behavioral constraints, structural constraints, search strategies.<br/>[\[Slides\]](../blob/master/lectures/Lecture01.pdf) [\[Synquid demo\]](http://comcom.csail.mit.edu/demos/#intersection)| |
 | |**Module I: Searching for Simple Programs** | |
 |Thu<br/> 1/9   | Inductive synthesis. Syntax-guided synthesis. Enumerative search: bottom-up vs top-down.<br/>[\[Slides\]](../blob/master/lectures/Lecture02.pdf) | | 
-|Tue<br/> 1/14  | Search space pruning: equivalence reduction, top-down constraint propagation. Condition abduction. | |
+|Tue<br/> 1/14  | Search space pruning: equivalence reduction, top-down constraint propagation. Condition abduction.<br/>[\[Slides\]](../blob/master/lectures/Lecture03.pdf) | |
 |Wed<br/> 1/15  | [EUSolver](Reading-List#week-2-eusolver) | | 
 |Thu<br/> 1/16  | Search space prioritization. Probabilistic models of code. Learning to synthesize. | |
 |Fri<br/> 1/18  | | Teams |
