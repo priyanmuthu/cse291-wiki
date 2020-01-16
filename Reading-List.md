@@ -163,9 +163,13 @@ Feser, Chaudhuri, Dillig: [Synthesizing Data Structure Transformations from Inpu
 
 Raychev, Vechev, Yahav. [Code Completion with Statistical Language Models](http://www.cs.technion.ac.il/~yahave/papers/pldi14-statistical.pdf). PLDI'14
 
-Bielik, Raychev, Vechev. [PHOG: Probabilistic Model for Code](http://www.srl.inf.ethz.ch/slides/ICML16_PHOG.pdf). ICML’16
+Pu, Narasimhan, Solar-Lezama, Barzilay: [sk_p: a neural program corrector for MOOCs](https://dl.acm.org/citation.cfm?id=2989222). SPLASH'16
 
 Balog, Gaunt, Brockschmidt, Nowozin, Tarlow: [DeepCoder: Learning to Write Programs](https://arxiv.org/pdf/1611.01989). ICLR'17
+
+Menon, Tamuz, Gulwani, Lampson, Kalai: [A Machine Learning Framework for Programming by Example](https://www.cse.iitk.ac.in/users/cs365/2014/_papers/menon-tamuz-13-icml_learning-to-program-by-example.pdf). ICML'13
+
+Bielik, Raychev, Vechev. [PHOG: Probabilistic Model for Code](http://www.srl.inf.ethz.ch/slides/ICML16_PHOG.pdf). ICML’16
 
 ### Week 4
 
