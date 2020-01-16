@@ -1,3 +1,7 @@
+## 2018
+
+**Jan 16:** Nadia is traveling during Week 3; the classes will be given by John Sarracino. There will be no office hour on Jan 17 or Jan 24. Instead there will be make-up office hours on Jan 27, 28, and 30 at 5pm. 
+
 <!--
 ## 2018
 
