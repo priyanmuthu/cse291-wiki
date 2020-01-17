@@ -7,7 +7,7 @@
 |Thu<br/> 1/9   | Inductive synthesis. Syntax-guided synthesis. Enumerative search: bottom-up vs top-down.<br/>[\[Slides\]](../blob/master/lectures/Lecture02.pdf) | | 
 |Tue<br/> 1/14  | Search space pruning: equivalence reduction, top-down constraint propagation. Condition abduction.<br/>[\[Slides\]](../blob/master/lectures/Lecture03.pdf) | |
 |Wed<br/> 1/15  | [EUSolver](Reading-List#week-2-eusolver) | | 
-|Thu<br/> 1/16  | Search space prioritization. Probabilistic models of code. Learning to synthesize. | |
+|Thu<br/> 1/16  | Search space prioritization. Probabilistic models of code. Learning to synthesize.<br/>[\[Slides\]](../blob/master/lectures/Lecture04.pdf) | |
 |Fri<br/> 1/18  | | Teams |
 |Tue<br/> 1/21  | *Guest lecture (John Sarracino)*: Synthesis framework demos | |
 |Wed<br/> 1/22  | [Euphony](Reading-List#week-3-euphony) | | 
