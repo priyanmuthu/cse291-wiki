@@ -6,34 +6,34 @@
 Rajeev Alur, Arjun Radhakrishna, Abhishek Udupa: [Scaling Enumerative Program Synthesis via Divide and Conquer](https://arjunradhakrishna.github.io/publications/tacas2017.pdf). TACAS'17
 
 **Questions:**
-* What does EUSolver use as behavioral constraints? Structural constraint? Search strategy?
-* What are the main two pruning/decomposition techniques EUSolver uses to speed up the search? What enables these techniques?
-* What would a naive alternative to decision tree learning be for synthesizing branch conditions? What are the disadvantages of this alternative?
+- What does EUSolver use as behavioral constraints? Structural constraint? Search strategy?
+- What are the main two pruning/decomposition techniques EUSolver uses to speed up the search? What enables these techniques?
+- What would a naive alternative to decision tree learning be for synthesizing branch conditions? What are the disadvantages of this alternative?
 
 ### Week 3: Euphony
 
 Woosuk Lee, Kihong Heo, Rajeev Alur, Mayur Naik: [Accelerating Search-Based Program Synthesis usingLearned Probabilistic Models](https://www.cis.upenn.edu/~alur/PLDI18.pdf). PLDI'18
 
 **Questions:**
-* What does Euphony use as behavioral constraints? Structural constraint? Search strategy? How are they different from EUSolver?
+- What does Euphony use as behavioral constraints? Structural constraint? Search strategy? How are they different from EUSolver?
 
-* Consider Fig 2b, where the synthesizer is unrolling the sentential form `Rep(x,"-",S)`. When the search is guided by a PHOG, it considers the weighted productions shown in Fig 2a (top). What would these productions look like if we replaced the PHOG with a PCGF? With 3-grams? Do you think these other probabilistic models would work as well as a PHOG?
+- Consider Fig 2b, where the synthesizer is unrolling the sentential form `Rep(x,"-",S)`. When the search is guided by a PHOG, it considers the weighted productions shown in Fig 2a (top). What would these productions look like if we replaced the PHOG with a PCGF? With 3-grams? Do you think these other probabilistic models would work as well as a PHOG?
 
-* Consider Example 3.2. Explain in English the intuitive meaning of `h(S) = 0.1` and why it is the case.
+- Consider Example 3.2. Explain in English the intuitive meaning of `h(S) = 0.1` and why it is the case.
 
-* Consider Theorem 3.7. Give an example of sentential forms `n_i`, `n_j` and set of points `pts` such that `n_i` and `n_j` are equivalent on `pts` but not weakly equivalent.
+- Consider Theorem 3.7. Give an example of sentential forms `n_i`, `n_j` and set of points `pts` such that `n_i` and `n_j` are equivalent on `pts` but not weakly equivalent.
 
 ### Week 4: BlinkFill
 
 Rishabh Singh: [BlinkFill: Semisupervised Programming By Example for Syntactic String Transformations](http://www.vldb.org/pvldb/vol9/p816-singh.pdf). VLDB'16
 
 **Questions:**
-* What does BlinkFill use as behavioral constraints? Structural constraints? Search strategy?
-* What is the main technical insight of BlinkFill wrt FlashFill?
-* Write a program in the BlinkFill DSL (`L_s`) that extracts conference acronyms and years; the program should satisfy the following examples:
-    "Programming Language Design and Implementation (PLDI), 2019, Phoenix AZ" -> "PLDI 2019"
-    "Principles of Programming Languages (POPL), 2020, New Orleans LA" -> "POPL 2020",    
-* As described in the paper, the position expressions of the BlinkFill DSL only support matching a single token from Table 1, e.g. `C`. Could we extend the algorithm to support sequences of tokens, e.g. `C ws $` to match caps followed by whitespace follows by end of string? How would this change the construction and intersection of input data graphs (use Fig 6 as an example).
+- What does BlinkFill use as behavioral constraints? Structural constraints? Search strategy?
+- What is the main technical insight of BlinkFill wrt FlashFill?
+- Write a program in the BlinkFill DSL (`L_s`) that extracts conference acronyms and years; the program should satisfy the following examples:
+    - "Programming Language Design and Implementation (PLDI), 2019, Phoenix AZ" -> "PLDI 2019"
+    - "Principles of Programming Languages (POPL), 2020, New Orleans LA" -> "POPL 2020",    
+- As described in the paper, the position expressions of the BlinkFill DSL only support matching a single token from Table 1, e.g. `C`. Could we extend the algorithm to support sequences of tokens, e.g. `C ws $` to match caps followed by whitespace follows by end of string? How would this change the construction and intersection of input data graphs (use Fig 6 as an example).
 
 
 
