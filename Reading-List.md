@@ -28,7 +28,14 @@ Woosuk Lee, Kihong Heo, Rajeev Alur, Mayur Naik: [Accelerating Search-Based Prog
 Rishabh Singh: [BlinkFill: Semisupervised Programming By Example for Syntactic String Transformations](http://www.vldb.org/pvldb/vol9/p816-singh.pdf). VLDB'16
 
 **Questions:**
-* TBD
+* What does BlinkFill use as behavioral constraints? Structural constraints? Search strategy?
+* What is the main technical insight of BlinkFill wrt FlashFill?
+* Write a program in the BlinkFill DSL (`L_s`) that extracts conference acronyms and years; the program should satisfy the following examples:
+    "Programming Language Design and Implementation (PLDI), 2019, Phoenix AZ" -> "PLDI 2019"
+    "Principles of Programming Languages (POPL), 2020, New Orleans LA" -> "POPL 2020",    
+* As described in the paper, the position expressions of the BlinkFill DSL only support matching a single token from Table 1, e.g. `C`. Could we extend the algorithm to support sequences of tokens, e.g. `C ws $` to match caps followed by whitespace follows by end of string? How would this change the construction and intersection of input data graphs (use Fig 6 as an example).
+
+
 
 ### Week 5: Brahma
 
