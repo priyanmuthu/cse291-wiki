@@ -12,9 +12,9 @@
 |Tue<br/> 1/21  | *Guest lecture (John Sarracino)*: Synthesis framework demos | |
 |Wed<br/> 1/22  | [Euphony](Reading-List#week-3-euphony) | | 
 |Thu<br/> 1/23  | *Guest lecture (John Sarracino)*: Synthesis framework demos| |
-|Tue<br/> 1/28  | Stochastic search, MCMC. Representation-based search: Type-transition Nets. | |
+|Tue<br/> 1/28  | Representation-based search: Version-Space Algebra, Finite Tree Automata, Type-Transition Nets.<br/>[\[Slides\]](../blob/master/lectures/Lecture05.pdf) | |
 |Wed<br/> 1/29  | [BlinkFill](Reading-List#week-4-blinkfill) | | 
-|Thu<br/> 1/30  | Representation-based search (contd.): Version-Space Algebra, Finite Tree Automata. | |
+|Thu<br/> 1/30  | Stochastic search, MCMC.  | |
 |Fri<br/> 1/31  | | Proposal |
 |Tue<br/> 2/4   | Constraint Solving: SAT, SMT, MaxSAT, MaxSMT. | |
 |Wed<br/> 2/5   | [Brahma](Reading-List#week-5-brahma) | | 
