@@ -186,7 +186,7 @@ Bielik, Raychev, Vechev. [PHOG: Probabilistic Model for Code](http://www.srl.inf
 
 ### Week 4
 
-Schufza, Sharma, Aiken: [Stochastic program optimization](https://cacm.acm.org/magazines/2016/2/197428-stochastic-program-optimization/fulltext). CACM’16
+Gulwani: [Automating string processing in spreadsheets using input-output examples](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf). POPL'11
 
 Le, Gulwani: [FlashExtract: a framework for data extraction by examples](https://dl.acm.org/citation.cfm?doid=2594291.2594333). PLDI'14
 
@@ -199,6 +199,11 @@ Wang, Dillig, Singh: [Program synthesis using abstraction refinement](https://dl
 Gvero, Kuncak, Kuraj, Piskac: [Complete completion using types and weights](http://www.cs.yale.edu/homes/piskac/papers/2013GveroETALCompletion.pdf) PLDI'13
 
 Feng, Martins, Wang, Dillig, Reps: [Component-based synthesis for complex APIs](https://www.cs.utexas.edu/~isil/sypet-popl17.pdf). POPL'17
+
+Schufza, Sharma, Aiken: [Stochastic program optimization](https://cacm.acm.org/magazines/2016/2/197428-stochastic-program-optimization/fulltext). CACM’16
+
+Shi, Steinhardt, Liang: [FrAngel: Component-Based Synthesis with Control Structures](https://arxiv.org/abs/1811.05175). POPL'19
+
 
 ### Week 5
 
