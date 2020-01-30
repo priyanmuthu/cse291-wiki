@@ -200,7 +200,7 @@ Gvero, Kuncak, Kuraj, Piskac: [Complete completion using types and weights](http
 
 Feng, Martins, Wang, Dillig, Reps: [Component-based synthesis for complex APIs](https://www.cs.utexas.edu/~isil/sypet-popl17.pdf). POPL'17
 
-Schufza, Sharma, Aiken: [Stochastic program optimization](https://cacm.acm.org/magazines/2016/2/197428-stochastic-program-optimization/fulltext). CACM’16
+Schkufza, Sharma, Aiken: [Stochastic program optimization](https://cacm.acm.org/magazines/2016/2/197428-stochastic-program-optimization/fulltext). CACM’16
 
 Shi, Steinhardt, Liang: [FrAngel: Component-Based Synthesis with Control Structures](https://arxiv.org/abs/1811.05175). POPL'19
 
