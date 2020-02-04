@@ -42,7 +42,9 @@ Rishabh Singh: [BlinkFill: Semisupervised Programming By Example for Syntactic S
 Sumit  Gulwani, Susmit  Jha, Ashish  Tiwari, Ramarathnam  Venkatesan: [Synthesis of loop-free programs](http://www.csl.sri.com/users/tiwari/papers/pldi2011-bitvector.pdf). PLDI'11
 
 **Questions:**
-* TBD
+- What does Brahma use as behavioral constraints / user interaction mode? Structural constraints? Search strategy?
+-  Is it possible to specify Brahma's structural constraints in the SyGuS format (as a grammar)? Is yes, show a small example. If no, explain why.
+- Consider the following modification of Brahma's synthesis problem: you are given `N` components, but your program is only allowed to use any `K` of them (for a fixed `K <= N`). How would you modify the SMT encoding in section 5 to enforce this restriction?
 
 ### Week 6: Sketch
 Armando Solar-Lezama: [Program sketching](https://link.springer.com/content/pdf/10.1007%2Fs10009-012-0249-7.pdf). STTT’13
