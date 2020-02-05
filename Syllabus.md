@@ -16,7 +16,7 @@
 |Wed<br/> 1/29  | [BlinkFill](Reading-List#week-4-blinkfill) | | 
 |Thu<br/> 1/30  | Stochastic search, MCMC.<br/>[\[Slides\]](../blob/master/lectures/Lecture06.pdf)  | |
 |Fri<br/> 1/31  | | Proposal |
-|Tue<br/> 2/4   | Constraint Solving: SAT, SMT, MaxSAT, MaxSMT. | |
+|Tue<br/> 2/4   | Constraint Solving: SAT, SMT.<br/>[\[Slides\]](../blob/master/lectures/Lecture07.pdf) | |
 |Wed<br/> 2/5   | [Brahma](Reading-List#week-5-brahma) | | 
 |Thu<br/> 2/6   | Constraint-based search. | |
 | |**Module II: Searching for Complex Programs** | |
