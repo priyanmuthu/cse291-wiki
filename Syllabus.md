@@ -18,7 +18,7 @@
 |Fri<br/> 1/31  | | Proposal |
 |Tue<br/> 2/4   | Constraint Solving: SAT, SMT.<br/>[\[Slides\]](../blob/master/lectures/Lecture07.pdf) | |
 |Wed<br/> 2/5   | [Brahma](Reading-List#week-5-brahma) | | 
-|Thu<br/> 2/6   | Constraint-based search. | |
+|Thu<br/> 2/6   | Constraint-based search.<br/>[\[Slides\]](../blob/master/lectures/Lecture08.pdf) | |
 | |**Module II: Searching for Complex Programs** | |
 |Tue<br/> 2/11  | Loops and recursion: challenges. Specifications and guarantees. Bounded verification. CEGIS. | |
 |Wed<br/> 2/12  | [Sketch](Reading-List#week-6-sketch) | | 
