@@ -20,9 +20,9 @@
 |Wed<br/> 2/5   | [Brahma](Reading-List#week-5-brahma) | | 
 |Thu<br/> 2/6   | Constraint-based search.<br/>[\[Slides\]](../blob/master/lectures/Lecture08.pdf) | |
 | |**Module II: Searching for Complex Programs** | |
-|Tue<br/> 2/11  | Loops and recursion: challenges. Specifications and guarantees. Bounded verification. CEGIS. | |
+|Tue<br/> 2/11  | Specifications and guarantees. CEGIS.<br/>[\[Slides\]](../blob/master/lectures/Lecture09.pdf) | |
 |Wed<br/> 2/12  | [Sketch](Reading-List#week-6-sketch) | | 
-|Thu<br/> 2/13  | Bounded constraint-based synthesis. Sketch. | |
+|Thu<br/> 2/13  | Bounded constraint-based synthesis. Sketch.<br/>[\[Slides\]](../blob/master/lectures/Lecture10.pdf) | |
 |Tue<br/> 2/18  | Unbounded verification of functional programs. Type Systems. Refinement types. | |
 |Wed<br/> 2/19  | [Synquid](Reading-List#week-7-synquid) | | 
 |Thu<br/> 2/20  | Type-driven program synthesis. | |
