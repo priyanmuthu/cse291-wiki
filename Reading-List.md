@@ -50,16 +50,23 @@ Sumit  Gulwani, Susmit  Jha, Ashish  Tiwari, Ramarathnam  Venkatesan: [Synthesis
 Armando Solar-Lezama: [Program sketching](https://link.springer.com/content/pdf/10.1007%2Fs10009-012-0249-7.pdf). STTT’13
 
 **Questions:**
-* What does Sketch use as behavioral constraints? Structural constraints? Search strategy?
-* Compare structural constraints of Sketch with those in SyGuS (i.e. CFGs) and in Brahma; which of those are more expressive?
-* Consider extending the Sketch language with a new command, `abort`, that makes the program fail unconditionally. What should the denotational semantics of this command be, i.e. <a href="https://www.codecogs.com/eqnedit.php?latex=\mathcal{C}[[abort]]^{\tau}\langle&space;\sigma,&space;\Phi\rangle&space;=&space;?" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathcal{C}[[abort]]^{\tau}\langle&space;\sigma,&space;\Phi\rangle&space;=&space;?" title="\mathcal{C}[[abort]]^{\tau}\langle \sigma, \Phi\rangle = ?" /></a>
-* Give an example of a *satisfiable* synthesis constraint that violates the Bounded Observation Hypothesis, and hence cannot be efficiently solved by CEGIS. More precisely, give an example of a formula *Q(c, x)*, where *c*, *x* are bit-vectors of size *n*, such that solving the constraint <a href="https://www.codecogs.com/eqnedit.php?latex=\exists&space;c.\forall&space;x.&space;Q(c,x)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\exists&space;c.\forall&space;x.&space;Q(c,x)" title="\exists c.\forall x. Q(c,x)" /></a> in the worst case would require <a href="https://www.codecogs.com/eqnedit.php?latex=2^n" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2^n" title="2^n" /></a> CEGIS iterations. 
+- What does Sketch use as behavioral constraints? Structural constraints? Search strategy?
+- Compare structural constraints of Sketch with those in SyGuS (i.e. CFGs) and in Brahma; which of those are more expressive?
+- Consider extending the Sketch language with a new command, `abort`, that makes the program fail unconditionally. What should the denotational semantics of this command be, i.e. <a href="https://www.codecogs.com/eqnedit.php?latex=\mathcal{C}[[abort]]^{\tau}\langle&space;\sigma,&space;\Phi\rangle&space;=&space;?" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathcal{C}[[abort]]^{\tau}\langle&space;\sigma,&space;\Phi\rangle&space;=&space;?" title="\mathcal{C}[[abort]]^{\tau}\langle \sigma, \Phi\rangle = ?" /></a>
+- Give an example of a *satisfiable* synthesis constraint that violates the Bounded Observation Hypothesis, and hence cannot be efficiently solved by CEGIS. More precisely, give an example of a formula *Q(c, x)*, where *c*, *x* are bit-vectors of size *n*, such that solving the constraint <a href="https://www.codecogs.com/eqnedit.php?latex=\exists&space;c.\forall&space;x.&space;Q(c,x)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\exists&space;c.\forall&space;x.&space;Q(c,x)" title="\exists c.\forall x. Q(c,x)" /></a> in the worst case would require <a href="https://www.codecogs.com/eqnedit.php?latex=2^n" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2^n" title="2^n" /></a> CEGIS iterations. 
 
 ### Week 7: Synquid
 Nadia Polikarpova, Ivan Kuraj, Armando Solar-Lezama: [Program synthesis from Polymorphic Refinement Types](https://cseweb.ucsd.edu/~npolikarpova/publications/pldi16.pdf). PLDI’16
 
 **Questions:**
-* TBD
+- What does Synquid use as behavioral constraints? Structural constraint? Search strategy?
+- Find a typo in the Example is Section 3.2
+- Can Synquid's Round-Trip Type Checking discard the following incomplete terms? Explain how or why not.  
+  1. `inc ?? :: {Int | ν = 5}`, where `inc :: x:Int -> {Int | ν = x + 1}`
+  1. `duplicate ?? :: {List Int | len ν = 5}`, where `duplicate :: xs:List a -> {List a | len ν = 2*(len xs)}`
+  1. `nats ?? :: List Pos`, where `nats :: n:Nat -> {List Nat| len ν = n}`, `Nat = {Int | ν >= 0}`, `Pos = {Int | ν > 0}` 
+- Compare Synquid's condition abduction mechanism to the one from EUSolver.
+
 
 ### Week 8: SuSLik
 Nadia Polikarpova, Ilya Sergey: [Structuring the Synthesis of Heap-Manipulating Programs](https://cseweb.ucsd.edu/~npolikarpova/publications/suslik.pdf). POPL’19
@@ -92,13 +99,6 @@ Jha, Gulwani, Seshia, Tiwari: [Oracle-guided component-based program synthesis](
 * Consider the following modification of Brahma's synthesis problem: you are given `N` components, but your program is only allowed to use any `K` of them (`K <= N`). How would you modify the SMT encoding in section 4.1 to enforce this restriction?
 
 
-### Week 5: Sketch
-Solar-Lezama: [Program sketching](https://link.springer.com/content/pdf/10.1007%2Fs10009-012-0249-7.pdf). STTT’13
-
-* What does Sketch use as behavioral constraints? Structural constraints? Search strategy?
-* Compare structural constraints of Sketch with those in SyGuS (i.e. CFGs) and in Brahma; which of those are more expressive?
-* Consider extending the Sketch language with a new command, `abort`, that makes the program fail unconditionally. What should the denotational semantics of this command be, i.e. <a href="https://www.codecogs.com/eqnedit.php?latex=\mathcal{C}[[abort]]^{\tau}\langle&space;\sigma,&space;\Phi\rangle&space;=&space;?" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathcal{C}[[abort]]^{\tau}\langle&space;\sigma,&space;\Phi\rangle&space;=&space;?" title="\mathcal{C}[[abort]]^{\tau}\langle \sigma, \Phi\rangle = ?" /></a>
-* Give an example of a *satisfiable* synthesis constraint that violates the Bounded Observation Hypothesis, and hence cannot be efficiently solved by CEGIS. More precisely, give an example of a formula *Q(c, x)*, where *c*, *x* are bit-vectors of size *n*, such that solving the constraint <a href="https://www.codecogs.com/eqnedit.php?latex=\exists&space;c.\forall&space;x.&space;Q(c,x)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\exists&space;c.\forall&space;x.&space;Q(c,x)" title="\exists c.\forall x. Q(c,x)" /></a> in the worst case would require <a href="https://www.codecogs.com/eqnedit.php?latex=2^n" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2^n" title="2^n" /></a> CEGIS iterations. 
 
 ### Week 6: VS3
 Srivastava, Gulwani, Foster: [From program verification to program synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl10_synthesis.pdf). POPL'10
@@ -115,19 +115,6 @@ Kneuss, Kuraj, Kuncak, Suter: [Synthesis modulo recursive functions](http://lara
 * What does Leon use as behavioral constraints? Structural constraint? Search strategy?
 * Compare Leon's Symbolic Term Exploration (STE) rule to Sketch. How would you extend STE to generating arbitrary integer constants?
 * Compare Leon's Condition Abduction rule to the way conditionals are synthesized in EUSolver and FlashFill.
-
-
-### Week 8: Synquid
-Polikarpova, Kuraj, Solar-Lezama: [Program synthesis from Polymorphic Refinement Types](https://cseweb.ucsd.edu/~npolikarpova/publications/pldi16.pdf). PLDI’16
-
-**Questions:**
-* What does Synquid use as behavioral constraints? Structural constraint? Search strategy?
-* Find a typo in the Example is Section 3.2 (recently discovered by Tristan!)
-* Can Synquid's Round-Trip Type Checking discard the following incomplete terms? Explain how or why not.  
-  1. `inc ?? :: {Int | ν = 5}`, where `inc :: x:Int -> {Int | ν = x + 1}`
-  1. `duplicate ?? :: {List Int | len ν = 5}`, where `duplicate :: xs:List a -> {List a | len ν = 2*(len xs)}`
-  1. `nats ?? :: List Pos`, where `nats :: n:Nat -> {List Nat| len ν = n}`, `Nat = {Int | ν >= 0}`, `Pos = {Int | ν > 0}` 
-* Compare Synquid's condition abduction mechanism to the one in Leon.
 
 
 ### Week 9: Lens
