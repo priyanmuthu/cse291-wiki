@@ -23,7 +23,7 @@
 |Tue<br/> 2/11  | Specifications and guarantees. CEGIS.<br/>[\[Slides\]](../blob/master/lectures/Lecture09.pdf) | |
 |Wed<br/> 2/12  | [Sketch](Reading-List#week-6-sketch) | | 
 |Thu<br/> 2/13  | Bounded constraint-based synthesis. Sketch.<br/>[\[Slides\]](../blob/master/lectures/Lecture10.pdf) | |
-|Tue<br/> 2/18  | Unbounded verification of functional programs. Type Systems. Refinement types. | |
+|Tue<br/> 2/18  | Unbounded verification of functional programs. Type Systems. Refinement types. <br/>[\[Slides\]](../blob/master/lectures/Lecture11.pdf) | | | |
 |Wed<br/> 2/19  | [Synquid](Reading-List#week-7-synquid) | | 
 |Thu<br/> 2/20  | Type-driven program synthesis. | |
 |Tue<br/> 2/25  | Unbounded verification of imperative programs. Hoare logic. Separation logic. | |
