@@ -26,7 +26,7 @@
 |Tue<br/> 2/18  | Unbounded verification of functional programs. Type Systems. Refinement types. <br/>[\[Slides\]](../blob/master/lectures/Lecture11.pdf) | | | |
 |Wed<br/> 2/19  | [Synquid](Reading-List#week-7-synquid) | | 
 |Thu<br/> 2/20  | Type-driven program synthesis. | |
-|Tue<br/> 2/25  | Unbounded verification of imperative programs. Hoare logic. Separation logic. | |
+|Tue<br/> 2/25  | Unbounded verification of imperative programs. Hoare logic. Separation logic. <br/>[\[Slides\]](../blob/master/lectures/Lecture12.pdf) | |
 |Wed<br/> 2/26  | [SuSLik](Reading-List#week-8-suslik) | | 
 |Thu<br/> 2/27  | Constraint-based synthesis with loop invariants. Deductive synthesis. | |
 | |**Module III: Applications of Synthesis** | |
