@@ -72,7 +72,9 @@ Nadia Polikarpova, Ivan Kuraj, Armando Solar-Lezama: [Program synthesis from Pol
 Nadia Polikarpova, Ilya Sergey: [Structuring the Synthesis of Heap-Manipulating Programs](https://cseweb.ucsd.edu/~npolikarpova/publications/suslik.pdf). POPL’19
 
 **Questions:**
-* TBD
+- What does SuSLik use as behavioral constraints? Structural constraint? Search strategy?
+- Elaborate on the difference between enumerative and deductive search. Can Synquid's search strategy also be seen as deductive?
+- Sec 5.1 introduces the *invertible rule* optimization. Why is the Frame rule not invertible?
 
 ### Week 9: TBD
 

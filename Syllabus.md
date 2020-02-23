@@ -25,10 +25,10 @@
 |Thu<br/> 2/13  | Bounded constraint-based synthesis. Sketch.<br/>[\[Slides\]](../blob/master/lectures/Lecture10.pdf) | |
 |Tue<br/> 2/18  | Unbounded verification of functional programs. Type Systems. Refinement types. <br/>[\[Slides\]](../blob/master/lectures/Lecture11.pdf) | | | |
 |Wed<br/> 2/19  | [Synquid](Reading-List#week-7-synquid) | | 
-|Thu<br/> 2/20  | Type-driven program synthesis. | |
-|Tue<br/> 2/25  | Unbounded verification of imperative programs. Hoare logic. Separation logic. <br/>[\[Slides\]](../blob/master/lectures/Lecture12.pdf) | |
+|Thu<br/> 2/20  | Type-driven program synthesis.  <br/>[\[Slides\]](../blob/master/lectures/Lecture12.pdf) | |
+|Tue<br/> 2/25  | Unbounded verification of imperative programs. Hoare logic. Constraint-based synthesis with loop invariants.| |
 |Wed<br/> 2/26  | [SuSLik](Reading-List#week-8-suslik) | | 
-|Thu<br/> 2/27  | Constraint-based synthesis with loop invariants. Deductive synthesis. | |
+|Thu<br/> 2/27  | Separation logic. Deductive synthesis. | |
 | |**Module III: Applications of Synthesis** | |
 |Tue<br/> 3/3   | | |
 |Wed<br/> 3/4   | *TBD* | | 
