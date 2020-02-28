@@ -76,7 +76,12 @@ Nadia Polikarpova, Ilya Sergey: [Structuring the Synthesis of Heap-Manipulating 
 - Elaborate on the difference between enumerative and deductive search. Can Synquid's search strategy also be seen as deductive?
 - Sec 5.1 introduces the *invertible rule* optimization. Why is the Frame rule not invertible?
 
-### Week 9: TBD
+### Week 9: Graphics Programs
+Kevin Ellis, Daniel Ritchie, Armando Solar-Lezama, Josh Tenenbaum: 
+[Learning to Infer Graphics Programs from Hand-Drawn Images](http://papers.nips.cc/paper/7845-learning-to-infer-graphics-programs-from-hand-drawn-images.pdf). NeurIPS'18
+
+**Questions:**
+TBD
 
 ### Week 10: TBD
 

@@ -31,10 +31,10 @@
 |Thu<br/> 2/27  | Separation logic. Deductive synthesis.  <br/>[\[Slides\]](../blob/master/lectures/Lecture14.pdf) | |
 | |**Module III: Applications of Synthesis** | |
 |Tue<br/> 3/3   | | |
-|Wed<br/> 3/4   | *TBD* | | 
+|Wed<br/> 3/4   | [Graphics Programs](Reading-List#week-9-graphics) | | 
 |Thu<br/> 3/5   | | |
 |Tue<br/> 3/10  | *Guest lecture (Hila Peleg)* | |
-|Wed<br/> 3/11  | *GIM* | | 
+|Wed<br/> 3/11  | GIM | | 
 |Thu<br/> 3/12  | *Guest lecture (Hila Peleg)*| |
 |Tue<br/> 3/17<br/> 3-6pm |*Project Presentations*.| Presentation |
 |Fri<br/> 3/20 | | Report |
