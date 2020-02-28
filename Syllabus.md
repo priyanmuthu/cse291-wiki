@@ -28,7 +28,7 @@
 |Thu<br/> 2/20  | Type-driven program synthesis.  <br/>[\[Slides\]](../blob/master/lectures/Lecture12.pdf) | |
 |Tue<br/> 2/25  | Unbounded verification of imperative programs. Hoare logic. Constraint-based synthesis with loop invariants.  <br/>[\[Slides\]](../blob/master/lectures/Lecture13.pdf) | |
 |Wed<br/> 2/26  | [SuSLik](Reading-List#week-8-suslik) | | 
-|Thu<br/> 2/27  | Separation logic. Deductive synthesis. | |
+|Thu<br/> 2/27  | Separation logic. Deductive synthesis.  <br/>[\[Slides\]](../blob/master/lectures/Lecture14.pdf) | |
 | |**Module III: Applications of Synthesis** | |
 |Tue<br/> 3/3   | | |
 |Wed<br/> 3/4   | *TBD* | | 
