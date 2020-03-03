@@ -251,6 +251,9 @@ Inala, Singh: [WebRelate: integrating web data with spreadsheets using examples]
 
 Gascón, Tiwari, Carmer, Mathur: [Look for the Proof to Find the Program: Decorated-Component-Based Program Synthesis](http://umathur3.web.engr.illinois.edu/papers/synudic-cav2017.pdf), CAV'17
 
+Chenglong Wang, Alvin Cheung, Rastislav Bodík:
+[Synthesizing highly expressive SQL queries from input-output examples](https://scythe.cs.washington.edu/media/scythe-pldi.pdf), PLDI'17
+
 Yaghmazadeh, Wang, Dillig, Dillig: [SQLizer: Query Synthesis from Natural Language](https://www.cs.utexas.edu/~isil/sqlizer.pdf). OOPSLA'17
 
 Feng, Martins, Van Geffen, Dillig, Chaudhuri: [Component-based synthesis of table consolidation and transformation tasks from examples](https://www.cs.rice.edu/~sc40/pubs/pldi17-morpheus.pdf). PLDI'17
