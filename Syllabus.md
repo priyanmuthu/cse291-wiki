@@ -30,12 +30,12 @@
 |Wed<br/> 2/26  | [SuSLik](Reading-List#week-8-suslik) | | 
 |Thu<br/> 2/27  | Separation logic. Deductive synthesis.  <br/>[\[Slides\]](../blob/master/lectures/Lecture14.pdf) | |
 | |**Module III: Applications of Synthesis** | |
-|Tue<br/> 3/3   | | |
+|Tue<br/> 3/3   | Overview: custom data structures, data wrangling, cryptography, SQL. |  |
 |Wed<br/> 3/4   | [Graphics Programs](Reading-List#week-9-graphics) | | 
-|Thu<br/> 3/5   | | |
-|Tue<br/> 3/10  | *Guest lecture (Hila Peleg)* | |
+|Thu<br/> 3/5   | Synthesis as AI. | |
+|Tue<br/> 3/10  | *Guest lecture (Hila Peleg)*: User interaction in synthesis. | |
 |Wed<br/> 3/11  | GIM | | 
-|Thu<br/> 3/12  | *Guest lecture (Hila Peleg)*| |
+|Thu<br/> 3/12  | *Guest lecture (Hila Peleg)*: User interaction in synthesis.| |
 |Tue<br/> 3/17<br/> 3-6pm |*Project Presentations*.| Presentation |
 |Fri<br/> 3/20 | | Report |
 

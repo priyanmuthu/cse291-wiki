@@ -207,8 +207,6 @@ Nieuwenhuis, Oliveras, Tinelli: [Solving SAT and SAT Modulo Theories: From an ab
 
 Jha, Gulwani, Seshia, Tiwari: [Oracle-guided component-based program synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/icse10_synthesis.pdf). ICSE’10
 
-Feng, Martins, Van Geffen, Dillig, Chaudhuri: [Component-based synthesis of table consolidation and transformation tasks from examples](https://www.cs.rice.edu/~sc40/pubs/pldi17-morpheus.pdf). PLDI'17
-
 Feng, Martins, Bastani, Dillig: [Program synthesis using conflict-driven learning](https://www.cs.utexas.edu/~isil/pldi18-neo.pdf). PLDI'18
 
 ### Week 6
@@ -241,6 +239,24 @@ Manna, Waldinger: [A Deductive Approach to Program Synthesis](https://pdfs.seman
 
 Reynolds, Deters, Kuncak, Tinelli, Barrett: [Counterexample-Guided Quantifier Instantiation for Synthesis in SMT](lara.epfl.ch/~reynolds/cav15a.pdf). CAV'15
 
+### Week 9
+
+Loncaric, Torlak, Ernst: [Fast synthesis of fast collections](https://homes.cs.washington.edu/~mernst/pubs/collection-synthesis-pldi2016.pdf). PLDI'16
+
+Loncaric, Ernst, Torlak: [Generalized data structure synthesis](https://homes.cs.washington.edu/~mernst/pubs/generalized-synthesis-icse2018.pdf). ICSE'18
+
+Vu Le, Sumit Gulwani: [FlashExtract: a framework for data extraction by examples](https://www.microsoft.com/en-us/research/publication/flashextract-framework-data-extraction-examples/). PLDI'14
+
+Inala, Singh: [WebRelate: integrating web data with spreadsheets using examples](https://dl.acm.org/citation.cfm?doid=3177123.3158090). POPL'17
+
+Gascón, Tiwari, Carmer, Mathur: [Look for the Proof to Find the Program: Decorated-Component-Based Program Synthesis](http://umathur3.web.engr.illinois.edu/papers/synudic-cav2017.pdf), CAV'17
+
+Yaghmazadeh, Wang, Dillig, Dillig: [SQLizer: Query Synthesis from Natural Language](https://www.cs.utexas.edu/~isil/sqlizer.pdf). OOPSLA'17
+
+Feng, Martins, Van Geffen, Dillig, Chaudhuri: [Component-based synthesis of table consolidation and transformation tasks from examples](https://www.cs.rice.edu/~sc40/pubs/pldi17-morpheus.pdf). PLDI'17
+
+Singh, Meduri, Elmagarmid, Madden, Papotti, Quiané-Ruiz, Solar-Lezama, Tang:
+[Synthesizing Entity Matching Rules by Examples](http://www.vldb.org/pvldb/vol11/p189-singh.pdf) VLDB'17
 
 <!--
 
@@ -250,23 +266,7 @@ Pu, Narasimhan, Solar-Lezama, Barzilay: [sk_p: a neural program corrector for MO
 
 Itzhaky, Singh, Solar-Lezama, Yessenov, Lu, Leiserson, Chowdhury: [Deriving Divide-and-Conquer Dynamic Programming Algorithms Using Solver-Aided Transformations](http://people.csail.mit.edu/shachari/dl/oopsla2016.pdf). OOPSLA'16
 
-
-
-### Week 9
-
-Loncaric, Torlak, Ernst: [Fast synthesis of fast collections](https://homes.cs.washington.edu/~mernst/pubs/collection-synthesis-pldi2016.pdf). PLDI'16
-
-Loncaric, Ernst, Torlak: [Generalized data structure synthesis](https://homes.cs.washington.edu/~mernst/pubs/generalized-synthesis-icse2018.pdf). ICSE'18
-
-
-### Week 10
-
-
-Inala, Singh: [WebRelate: integrating web data with spreadsheets using examples](https://dl.acm.org/citation.cfm?doid=3177123.3158090). POPL'17
-
 Kamil, Cheung, Itzhaky, Solar-Lezama [Verified Lifting of Stencil Computations](https://people.csail.mit.edu/asolar/papers/KamilCIS16.pdf). PLDI'16
-
-Gascón, Tiwari, Carmer, Mathur: [Look for the Proof to Find the Program: Decorated-Component-Based Program Synthesis](http://umathur3.web.engr.illinois.edu/papers/synudic-cav2017.pdf), CAV'17
 
 Ellis, Solar-Lezama, Tenenbaum: [Unsupervised Learning by Program Synthesis](https://papers.nips.cc/paper/5785-unsupervised-learning-by-program-synthesis.pdf), NIPS'15
 
