@@ -81,10 +81,17 @@ Kevin Ellis, Daniel Ritchie, Armando Solar-Lezama, Josh Tenenbaum:
 [Learning to Infer Graphics Programs from Hand-Drawn Images](http://papers.nips.cc/paper/7845-learning-to-infer-graphics-programs-from-hand-drawn-images.pdf). NeurIPS'18
 
 **Questions:**
-TBD
+- What does this paper's approach use as behavioral constraints? Structural constraint? Search strategy?
+- Compare their way of guiding search by probabilities with the one used in Euphony.
 
-### Week 10: TBD
+### Week 10: GIM
+Hila Peleg, Sharon Shoham, Eran Yahav:
+[Programming not only by example](https://arxiv.org/pdf/1710.01291.pdf). ICSE'18
 
+**Questions:**
+- What does GIM use as behavioral constraints? Structural constraint? Search strategy?
+- How can the results in Fig. 3 be used to explain the results in Fig. 4?
+- Give an example of two programs that cannot be separated by examples, where one would be a considerably better synthesis result than the other.
 
 <!--
 ### Week 3: FlashFill
