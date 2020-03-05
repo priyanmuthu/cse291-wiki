@@ -268,6 +268,14 @@ Feng, Martins, Van Geffen, Dillig, Chaudhuri: [Component-based synthesis of tabl
 Singh, Meduri, Elmagarmid, Madden, Papotti, Quiané-Ruiz, Solar-Lezama, Tang:
 [Synthesizing Entity Matching Rules by Examples](http://www.vldb.org/pvldb/vol11/p189-singh.pdf) VLDB'17
 
+Tian, Luo, Sun, Ellis, Freeman, Tenenbaum, Wu: [Learning to Infer and Execute 3D Shape Programs](https://openreview.net/forum?id=rylNH20qFQ) ICLR'19
+
+Ellis, Solar-Lezama, Tenenbaum: [Unsupervised Learning by Program Synthesis](https://papers.nips.cc/paper/5785-unsupervised-learning-by-program-synthesis.pdf) NeurIPS'15
+
+Barke, Kunkel, Polikarpova, Meinhardt, Bakovic, Bergen: [Constraint-based Learning of Phonological Processes](https://cseweb.ucsd.edu/~npolikarpova/publications/emnlp19.pdf) EMNLP'19
+
+Verma, Murali, Singh, Kohli, Chaudhuri. [Programmatically Interpretable Reinforcement Learning](https://arxiv.org/pdf/1804.02477.pdf) ICML'18
+
 ### Week 10
 
 Hila Peleg, Shachar Itzhaky, Sharon Shoham: [Abstraction-Based Interaction Model for Synthesis](http://cseweb.ucsd.edu/~hpeleg/model-vmcai18.pdf) VMCAI'18
@@ -285,7 +293,5 @@ Pu, Narasimhan, Solar-Lezama, Barzilay: [sk_p: a neural program corrector for MO
 Itzhaky, Singh, Solar-Lezama, Yessenov, Lu, Leiserson, Chowdhury: [Deriving Divide-and-Conquer Dynamic Programming Algorithms Using Solver-Aided Transformations](http://people.csail.mit.edu/shachari/dl/oopsla2016.pdf). OOPSLA'16
 
 Kamil, Cheung, Itzhaky, Solar-Lezama [Verified Lifting of Stencil Computations](https://people.csail.mit.edu/asolar/papers/KamilCIS16.pdf). PLDI'16
-
-Ellis, Solar-Lezama, Tenenbaum: [Unsupervised Learning by Program Synthesis](https://papers.nips.cc/paper/5785-unsupervised-learning-by-program-synthesis.pdf), NIPS'15
 
 -->
