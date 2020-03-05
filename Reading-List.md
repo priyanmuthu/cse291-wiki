@@ -268,6 +268,14 @@ Feng, Martins, Van Geffen, Dillig, Chaudhuri: [Component-based synthesis of tabl
 Singh, Meduri, Elmagarmid, Madden, Papotti, Quiané-Ruiz, Solar-Lezama, Tang:
 [Synthesizing Entity Matching Rules by Examples](http://www.vldb.org/pvldb/vol11/p189-singh.pdf) VLDB'17
 
+### Week 10
+
+Hila Peleg, Shachar Itzhaky, Sharon Shoham: [Abstraction-Based Interaction Model for Synthesis](http://cseweb.ucsd.edu/~hpeleg/model-vmcai18.pdf) VMCAI'18
+
+Sarah E. Chasins, Maria Mueller, Rastislav Bodík: [Rousillon: Scraping Distributed Hierarchical Web Data](https://schasins.com/assets/papers/rousillon.pdf) UIST'18
+
+Molly Q. Feldman, Yiting Wang, William E. Byrd, François Guimbretière, Erik Andersen: [Towards Answering "Am I On the Right Track?" Automatically using Program Synthesis](https://www.cs.cornell.edu/~molly/splashe2019.pdf) SPLASH-E'19
+
 <!--
 
 Torlak, Bodik: [Growing Solver-Aided Languages with ROSETTE](https://homes.cs.washington.edu/~emina/pubs/rosette.onward13.pdf). Onward!’13
