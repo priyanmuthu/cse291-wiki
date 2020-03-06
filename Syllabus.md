@@ -30,9 +30,9 @@
 |Wed<br/> 2/26  | [SuSLik](Reading-List#week-8-suslik) | | 
 |Thu<br/> 2/27  | Separation logic. Deductive synthesis.  <br/>[\[Slides\]](../blob/master/lectures/Lecture14.pdf) | |
 | |**Module III: Applications of Synthesis** | |
-|Tue<br/> 3/3   | Overview: custom data structures, data wrangling, databases. |  |
+|Tue<br/> 3/3   | Overview: custom data structures, data wrangling, databases.  <br/>[\[Slides\]](../blob/master/lectures/Lecture15.pdf) |  |
 |Wed<br/> 3/4   | [Graphics Programs](Reading-List#week-9-graphics-programs) | | 
-|Thu<br/> 3/5   | Synthesis as AI. | |
+|Thu<br/> 3/5   | Synthesis for inductive learning.  <br/>[\[Slides\]](../blob/master/lectures/Lecture16.pdf) | |
 |Tue<br/> 3/10  | *Guest lecture (Hila Peleg)*: User interaction in synthesis. | |
 |Wed<br/> 3/11  | [GIM](Reading-List#week-10-gim) | | 
 |Thu<br/> 3/12  | *Guest lecture (Hila Peleg)*: User interaction in synthesis.| |
